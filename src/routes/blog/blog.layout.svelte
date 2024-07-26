@@ -1,4 +1,6 @@
 <script>
+    import Beam from "$lib/components/custom/Beam.svelte";
+
   /**
 	 * @type {string}
 	*/
@@ -38,9 +40,17 @@
       </div>
     </div>
   </section>
-  <article class="markdown max-w-5xl p-6 lg:p-10">
-    <slot />
-  </article>
+
+  
+  <Beam>
+    <article class="markdown max-w-5xl p-6 lg:p-10">
+      <slot />
+      <div class="my-96">Hallo</div>
+      <div class="my-96">Hallo</div>
+      <div class="my-96">Hallo</div>
+    </article>
+  </Beam>
+
 </div>
 
 <!--
