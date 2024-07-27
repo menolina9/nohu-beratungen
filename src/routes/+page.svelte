@@ -1,5 +1,5 @@
 <script>
-  import Flower from "$lib/components/custom/Flower.svelte";
+  import Flower from "$lib/components/Flower.svelte";
 	import ProfileImage from "$lib/images/profile-image.jpeg";
   import Typewriter from "$lib/components/ui/Typewriter/Typewriter.svelte";
 

@@ -1,5 +1,5 @@
 <script>
-    import Beam from "$lib/components/custom/Beam.svelte";
+    import Beam from "$lib/components/Beam.svelte";
 
   /**
 	 * @type {string}

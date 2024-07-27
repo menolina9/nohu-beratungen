@@ -1,13 +1,17 @@
 <script>
+  import FloatingNavbar from '$lib/components/FloatingNavbar.svelte';
 	import '../app.css';
 </script>
 
-<div class="app">
-	<main class="min-h-screen">
-		<slot />
-	</main>
+<FloatingNavbar className="" navItems={[
+	{ name: 'Home', href: '/' },
+	{ name: 'Blog', href: '/blog' },
+]} />
 
-	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
-	</footer>
-</div>
+<main class="min-h-screen">
+	<slot />
+</main>
+
+<footer>
+	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+</footer>

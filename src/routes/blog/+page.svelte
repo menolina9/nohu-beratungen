@@ -17,15 +17,15 @@
 	</div>
   <div class="flex justify-center w-full">
 		<div class="flex flex-col items-start select-none">
-			<h1 class="text-3xl sm:text-4xl xl:text-7xl transition-all duration-300">Blog</h1>
-			<h2 class="text-lg sm:text-xl xl:text-3xl transition-all duration-300">
+			<h1 class="text-3xl sm:text-4xl xl:text-7xl mx-8 transition-all duration-300">Blog</h1>
+			<h2 class="text-lg sm:text-xl xl:text-3xl mx-8 transition-all duration-300">
         Hier zeige ich Euch meine Arbeit. Mit Herz und Hand habe ich daran gewirkt. Sie offenbart einen Teil meines Wesens.
       </h2>
 		</div>
 	</div>
 </section>
 
-<section class="flex flex-col gap-4">
+<section class="flex flex-col gap-4 mt-6">
   {#each BlogPreviews as blogPreview}
     <a use:inview
       on:change={(/** @type {any} */ e) => {
