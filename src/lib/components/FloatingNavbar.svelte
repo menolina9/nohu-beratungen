@@ -73,7 +73,7 @@
 				aria-current={$page.url.pathname === navItem.href ? "page" : undefined} 
 				href={navItem.href} 
 				class="nav-item w-28 text-lg font-semibold text-center">
-				<div class="nav-item-inner rounded-lg bg-slate-100 py-2">
+				<div class="select-none rounded-lg bg-slate-100 py-2">
 					{navItem.name}
 				</div>
 			</a>

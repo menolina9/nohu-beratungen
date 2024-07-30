@@ -1,5 +1,6 @@
 <script>
-  import BackgroundBeams from "$lib/components/ui/BackgroundBeams/BackgroundBeams.svelte";
+  import BackgroundBeams from "$lib/components/BackgroundBeams.svelte";
+    import TextGenerateEffect from "$lib/components/TextGenerateEffect.svelte";
 </script>
 
 <svelte:head>
@@ -31,6 +32,22 @@
       <br>
       Ist der geplante Zeitpunkt erreicht, überprüfen wir gemeinsam, ob Ihr Ziel erreicht ist oder ggf. weitere Maßnahmen notwendig sind.<br>
     </p>
+
+    <TextGenerateEffect 
+      segments={[
+        { 
+          text: "«Die reinste Form des Wahnsinns ist es, alles beim Alten zu belassen und zu hoffen, dass sich etwas ändert»",
+          className: "text-xl sm:text-3xl font-medium"
+        }, {
+          text: "", className: "", newLine: true,
+        }, {
+          text: "- Albert Einstein",
+          className: "text-xl sm:text-2xl text-slate-600 text-opacity-70",
+        }
+      ]}
+      durationPerWord={1}
+      className="text-slate-900 text-center w-full my-20"
+    />
   </section>
 </center>
 
