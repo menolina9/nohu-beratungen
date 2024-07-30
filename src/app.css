@@ -4,6 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --gradient-start: #12c2e9;
+  --gradient-via: #c471ed;
+  --gradient-end: #f64f59;
+}
+
 @layer base {
   html::-webkit-scrollbar {
     display: none; /* Chrome, Safari and Opera */

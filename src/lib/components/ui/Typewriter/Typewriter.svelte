@@ -1,30 +1,29 @@
-<script lang="ts">
+<script>
 	import { cn } from '$lib/utils/cn';
 	import { Motion } from 'svelte-motion';
 
-	export let words: {
-		text: string;
-		className?: string;
-	}[];
-	export let className: string | undefined = undefined;
-	export let cursorClassName: string | undefined = undefined;
+	/** 
+	 * @typedef Word
+	 * @property {string} text
+	 * @property {string} className
+	*/
 
-	const wordsArray = words.map((word) => {
-		return {
-			...word,
-			text: word.text.split('')
-		};
-	});
+	/** @type {Word[]} */
+	export let words;
+	/** @type {string | undefined} */
+	export let className = undefined;
+	/** @type {string | undefined} */
+	export let cursorClassName = undefined;
 </script>
 
 <div class={cn('my-6 flex space-x-1', className)}>
 	<Motion
 		let:motion
-		style={{
-			width: 'full-w'
-		}}
 		initial={{
-			width: '0%'
+			width: "0%"
+		}}
+		animate={{
+			width: "fit-content"
 		}}
 		transition={{
 			duration: 2,
@@ -38,10 +37,10 @@
 				style="white-space: nowrap;"
 			>
 				<div>
-					{#each wordsArray as word, idx (`word-${idx}`)}
+					{#each words as word}
 						<div class="inline-block">
-							{#each word.text as char, index (`char-${index}`)}
-								<span class={cn(`text-black dark:text-white `, word.className)}>
+							{#each word.text as char}
+								<span class={word.className}>
 									{char}
 								</span>
 							{/each}
@@ -71,7 +70,7 @@
 	>
 		<span
 			use:motion
-			class={cn('block h-4 w-[4px]  rounded-sm bg-blue-500 sm:h-6 xl:h-12', cursorClassName)}
+			class={cn("block h-4 w-[4px] bg-black rounded-sm sm:h-6 xl:h-12", cursorClassName)}
 		></span>
 	</Motion>
 </div>

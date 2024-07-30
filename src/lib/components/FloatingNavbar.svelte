@@ -2,6 +2,8 @@
 	import { Motion, AnimatePresence, useViewportScroll } from 'svelte-motion';
 	import { cn } from '$lib/utils/cn.js';
   import Flower from '$lib/components/Flower.svelte';
+    import { page } from '$app/stores';
+    import { fade } from 'svelte/transition';
 
   /** 
    * @typedef {Object} NavItem
@@ -37,6 +39,9 @@
       visible = false;
     }
 	}
+
+	/** @type {boolean} */
+	let expanded = true;
 </script>
 
 <AnimatePresence show={true}>
@@ -57,24 +62,81 @@
 		<nav
 			use:motion
 			class={cn(
-        "fixed nav-center top-2 right-2 flex flex-row items-center gap-4 z-50 py-2 px-4 rounded-3xl bg-slate-100 bg-opacity-70 border-2 border-slate-400",
-        className)}>
-      <Flower repeatAnimation={true} class="w-8"></Flower>
+        "fixed nav-bar top-2 right-2 flex flex-row items-center gap-4 z-50 py-2 px-4 rounded-3xl border-2 border-slate-400 bg-slate-100 bg-opacity-70 transition-all duration-700",
+        className)} class:expanded={expanded}>
+			<button on:click={() => expanded = !expanded}>
+				<Flower repeatAnimation={true} class="w-8"></Flower>
+			</button>
+
 			{#each navItems as navItem}
-				<a href={navItem.href} class="hover:bg-black hover:bg-opacity-10 transition-all duration-700 py-2 rounded-lg w-20 text-lg font-semibold text-center">
+			<a on:click={() => expanded = !expanded}
+				aria-current={$page.url.pathname === navItem.href ? "page" : undefined} 
+				href={navItem.href} 
+				class="nav-item w-28 text-lg font-semibold text-center">
+				<div class="nav-item-inner rounded-lg bg-slate-100 py-2">
 					{navItem.name}
-				</a>
+				</div>
+			</a>
 			{/each}
+
 		</nav>
 	</Motion>
 </AnimatePresence>
 
 <style>
-  .nav-center {
-    @media screen and (max-width: 600px) {
+  .nav-bar {
+		-ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+		box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    @media screen and (max-width: 640px) {
+			@apply flex-col h-12 overflow-hidden;
       width: 90%;
       left: 50%;
       translate: -50%;
     }
   }
+	.nav-bar::-webkit-scrollbar {
+		display: none; /* Chrome, Safari and Opera */
+	}
+	.nav-bar.expanded {
+		@media screen and (max-width: 640px) {
+			@apply h-96 overflow-y-scroll;
+    }
+	}
+
+	.nav-item {
+		@apply rounded-2xl relative;
+		padding: 2px;
+		border: 5px solid transparent;
+		background-image: linear-gradient(to bottom right, rgba(0,0,0,1), rgba(0,0,0,0.6));
+		background-origin: border-box;
+		background-clip: padding-box, border-box;
+		transition: all ease 1s;
+
+		@media screen and (max-width: 640px) {
+			@apply w-full;
+		}
+	}
+	.nav-item[aria-current='page'] {
+		background-image: linear-gradient(to bottom right, var(--gradient-start), var(--gradient-via), var(--gradient-end));
+		background-size: 200% 200%;
+		animation: gradient-animation 10s ease infinite;
+	}
+	.nav-item:hover {
+		background-image: linear-gradient(to bottom right, var(--gradient-start), var(--gradient-via), var(--gradient-end));
+		background-size: 200% 200%;
+		animation: gradient-animation 10s ease infinite;
+	}
+
+	@keyframes gradient-animation {
+		0% {
+			background-position: 0% 50%;
+		}
+		50% {
+			background-position: 100% 50%;
+		}
+		100% {
+			background-position: 0% 50%;
+		}
+	}
 </style>

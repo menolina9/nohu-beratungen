@@ -52,9 +52,9 @@
   <svg class="beam active absolute top-0 left-0 z-10 opacity-70" width="29" height="{height}" viewBox="0 0 29 {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="beamGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" style="stop-color: #12c2e9;" />
-        <stop offset="50%" style="stop-color: #c471ed;" />
-        <stop offset="100%" style="stop-color: #f64f59;" />
+        <stop offset="0%" style="stop-color: var(--gradient-start);" />
+        <stop offset="50%" style="stop-color: var(--gradient-via);" />
+        <stop offset="100%" style="stop-color: var(--gradient-end);" />
       </linearGradient>
     </defs>
     <path d="M0 0L0 256L28 320L28 {height}L28" stroke-dasharray="{height}" stroke-dashoffset="{height - ($scrollProgressTween * height)}"/>
