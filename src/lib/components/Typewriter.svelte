@@ -30,7 +30,7 @@
 
 	/** @type {Text} */
 	let animatedText = {
-		words: [{word: "dfsgsdf gsdfg sdfg"}],
+		words: [{word: ""}],
 	};
 
 	/** @type {number} */
