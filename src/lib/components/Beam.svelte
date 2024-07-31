@@ -35,7 +35,6 @@
 			if (typeof window !== 'undefined') {
 				window.requestAnimationFrame(() => {
 					scrollProgress = (window.scrollY + (window.innerHeight / 2)) / document.body.offsetHeight;
-          console.log(scrollProgress)
 					ticking = false;
 				});
 				ticking = true;
