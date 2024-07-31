@@ -19,7 +19,7 @@
 	<section class="w-full flex flex-col">
 		<Flower repeatAnimation={true} class="w-28 my-2"></Flower>
 		<h1 class="text-xl">Nora Hunziker</h1>
-		<h2>Psychologische Beratung</h2>
+		<h2>Psychologische Beratung IBP</h2>
 	</section>
 	<div class="w-full flex flex-col sm:flex-row gap-8 justify-around mt-6">
 		<section class="flex flex-col gap-2">

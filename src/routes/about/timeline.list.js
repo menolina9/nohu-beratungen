@@ -31,7 +31,7 @@ export const TimelineItems = [
     time: "1997-2000",
     content: [
       "Ausbildung zur Ergotherapeutin",
-      "am der Ergotherapieschule in Biel"
+      "an der Ergotherapieschule in Biel"
     ]
   },
   {

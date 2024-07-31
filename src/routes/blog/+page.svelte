@@ -2,13 +2,14 @@
   import { inview } from "svelte-inview";
   import { BlogPreviews } from "./blog.list";
   import BlogImage from "$lib/images/blog-image.jpeg";
+  import TextGenerateEffect from "$lib/components/TextGenerateEffect.svelte";
 
 </script>
 
 <svelte:head>
 	<title>Blog | Nora Hunziker</title>
 	<meta name="description"
-	content="Entdecke meine Arbeit in Blogform<br> und nimm hilfreiche Tipps mit." />
+	content="Buchvorschläge und anderes." />
 </svelte:head>
 
 <section class="flex flex-col sm:flex-row-reverse gap-2 items-center p-4">
@@ -19,10 +20,28 @@
 		<div class="flex flex-col items-start select-none">
 			<h1 class="text-3xl sm:text-4xl xl:text-7xl mx-8 transition-all duration-300">Blog</h1>
 			<h2 class="text-lg sm:text-xl xl:text-3xl mx-8 transition-all duration-300">
-        Entdecke meine Arbeit in Blogform<br> und nimm hilfreiche Tipps mit.
+        Buchvorschläge und anderes
       </h2>
 		</div>
 	</div>
+</section>
+
+<section class="flex flex-col items-center">
+  <TextGenerateEffect 
+    segments={[
+      { 
+        text: "«Gönne Dich Dir selbst. Ich sage nicht: tu das immer. Ich sage nicht: tu das oft. Aber ich sage: tue es immer wieder einmal. Sei wie für alle anderen auch für Dich selbst da»",
+        className: "text-xl sm:text-3xl font-medium"
+      }, {
+        text: "", className: "", newLine: true,
+      }, {
+        text: "- Bernhard von Clairvaux 12 Jh.",
+        className: "text-xl sm:text-2xl text-slate-600 text-opacity-70",
+      }
+    ]}
+    durationPerWord={1}
+    className="text-slate-900 text-center w-8/12 my-20"
+  />
 </section>
 
 <section class="flex flex-col gap-4 my-6">
