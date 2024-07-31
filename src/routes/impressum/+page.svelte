@@ -16,7 +16,7 @@
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Kontakt</h2>
     <p class="w-full text-start ml-10">
-      Telefon: +41 44 123 45 67<br>
+      Telefon: +41 79 598 36 31<br>
       E-Mail: menolina@proton.me
     </p>
   </section>
