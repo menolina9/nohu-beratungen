@@ -29,9 +29,9 @@
 
     <p class="w-full text-start text-sm sm:text-base">
       Ich bin eine offene, neugierige und lebensbejahende Frau und schätze alle kleinen Dinge um mich und in mir.<br>
-      Gerne bin ich in der Natur, in der Stille alleine, genauso wie mit lieben Menschen, unterwegs.
-      Ich liebe Bücher, bin interessiert an neuen Denk- und Lebensweisen, an Menschen und sehr dankbar für alles was ist.<br><br>
-      Ausserdem bin ich Mutter von zwei Kindern (2006/2008) und lebe mit meinem Partner zusammen, welcher ebenfalls zwei Kinder im gleichen Alter hat.
+      Gerne bin ich in der Natur unterwegs; sowohl in der Stille alleine, wie auch in Begleitung von lieben Menschen.<br>
+      Meine Liebe zu Büchern besteht seit ich denken kann. <br><br>
+      Als Mutter von zwei Kindern (2006/2008) lebe ich mit meinem Partner zusammen, welcher ebenfalls zwei Kinder im gleichen Alter hat.
     </p>
 
     <h2 class="text-2xl sm:text-4xl text-center my-12">Werdegang</h2>
