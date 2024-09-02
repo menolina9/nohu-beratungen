@@ -68,10 +68,10 @@
 			Persönliche Entwicklung ist für mich eine Herzensangelegenheit.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Beziehung zu sich selbst und zu anderen zu fördern meine Leidenschaft.
+			Die Beziehung zu sich selbst und anderen zu fördern, ist meine Leidenschaft.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Sie bei Ihrer persönlichen Entwicklung zu unterstützen ist mein Ziel.
+			Sie bei Ihrer persönlichen Entwicklung zu unterstützen, ist mein Ziel.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Ich freue mich, Sie mit Humor und Mitgefühl in Ihrem persönlichen Prozess zu begleiten und gemeinsam neue Möglichkeiten zu erkunden.
@@ -81,7 +81,7 @@
 	<TextGenerateEffect 
 		segments={[
 			{ 
-				text: "«Freiheit bedeutet, dass man nicht unbedingt alles so machen muss, wie andere Menschen»",
+				text: "«Freiheit bedeutet, dass man nicht unbedingt alles so machen muss, wie andere Menschen.»",
 				className: "text-xl sm:text-3xl font-medium"
 			}, {
 				text: "", className: "", newLine: true,
@@ -100,13 +100,13 @@
 
 	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			IBP ist ein effektives, wissenschaftlich fundiertes Verfahren für Psychotherapie- und Coaching.
+			IBP ist ein effektives, wissenschaftlich fundiertes Verfahren für Psychotherapie und Coaching.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Es integriert Körpererleben, Gedanken, Emotionen und Verhalten in wirksamer Form in den Beratungsprozess.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Die IBP Beratung baut auf ihren Stärken/Ressourcen auf.
+			Die IBP Beratung baut auf Ihren Stärken/Ressourcen auf.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Sie erhalten Werkzeuge und Informationen, die Ihnen helfen sowohl berufliche als auch private Veränderungen anzugehen und umzusetzen. 
