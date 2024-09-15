@@ -31,7 +31,7 @@
 			<h1 class="text-slate-600 font-semibold opacity-70">Kontakt</h1>
 			<p class="text-sm">
 				+41 79 598 36 31<br>
-				menolina@proton.me<br>
+				info@nora-hunziker.ch<br>
 				Seestrasse 31, 3600 Thun<br>
 			</p>
 			<div class="flex flex-row justify-start gap-3">

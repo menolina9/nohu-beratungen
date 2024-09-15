@@ -30,7 +30,7 @@
   <TextGenerateEffect 
     segments={[
       { 
-        text: "«Gönne Dich Dir selbst. Ich sage nicht: tu das immer. Ich sage nicht: tu das oft. Aber ich sage: tue es immer wieder einmal. Sei wie für alle anderen auch für Dich selbst da»",
+        text: "«Gönne Dich Dir selbst. Ich sage nicht: tu das immer. Ich sage nicht: tu das oft. Aber ich sage: tue es immer wieder einmal. Sei wie für alle anderen auch für Dich selbst da.»",
         className: "text-xl sm:text-3xl font-medium"
       }, {
         text: "", className: "", newLine: true,
