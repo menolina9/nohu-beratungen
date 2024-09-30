@@ -5,8 +5,12 @@
 
 <svelte:head>
 	<title>Angebot | Nora Hunziker</title>
-	<meta name="description"
-	content="Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich besser kennenlernen und weiterentwickeln möchten." />
+	<meta name="description" content="Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich besser kennenlernen und weiterentwickeln möchten." />
+	<meta property="og:description" content="Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich besser kennenlernen und weiterentwickeln möchten." />
+  <link rel="canonical" href="https://nora-hunziker.ch/angebot" />
+  <meta property="og:title" content="Angebot - Nora Hunziker" />
+  <meta property="og:type" content="website" />
+	<meta property="og:image" content="https://nora-hunziker.ch/favicon.png" />
 </svelte:head>
 
 <BackgroundBeams></BackgroundBeams>

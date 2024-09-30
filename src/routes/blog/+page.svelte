@@ -8,8 +8,12 @@
 
 <svelte:head>
 	<title>Blog | Nora Hunziker</title>
-	<meta name="description"
-	content="Buchvorschläge und anderes." />
+	<meta name="description" content="Finde durch meine Buchvorschläge neue Inspiration und Perspektiven. Entdecke Themen, die dich weiterbringen und dein Wissen bereichern." />
+	<meta property="og:description" content="Finde durch meine Buchvorschläge neue Inspiration und Perspektiven. Entdecke Themen, die dich weiterbringen und dein Wissen bereichern." />
+  <link rel="canonical" href="https://nora-hunziker.ch/blog" />
+  <meta property="og:title" content="Blog - Nora Hunziker" />
+  <meta property="og:type" content="website" />
+	<meta property="og:image" content="https://nora-hunziker.ch/favicon.png" />
 </svelte:head>
 
 <section class="flex flex-col sm:flex-row-reverse gap-2 items-center p-4">
