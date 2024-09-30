@@ -1,13 +1,17 @@
 <script>
   import AboutImage from "$lib/images/about-image.jpeg"
-    import { inview } from "svelte-inview";
-    import { TimelineItems } from "./timeline.list";
+  import { inview } from "svelte-inview";
+  import { TimelineItems } from "./timeline.list";
 </script>
 
 <svelte:head>
 	<title>Über mich | Nora Hunziker</title>
-	<meta name="description"
-	content="." />
+	<meta name="description" content="Ich bin eine offene, neugierige und lebensbejahende Frau und schätze alle kleinen Dinge um mich und in mir." />
+	<meta property="og:description" content="Ich bin eine offene, neugierige und lebensbejahende Frau und schätze alle kleinen Dinge um mich und in mir." />
+  <link rel="canonical" href="https://nora-hunziker.ch/about" />
+  <meta property="og:title" content="Über mich - Nora Hunziker" />
+  <meta property="og:type" content="website" />
+	<meta property="og:image" content="https://nora-hunziker.ch/favicon.png" />
 </svelte:head>
 
 <center>

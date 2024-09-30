@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Datenschutzerklärung | Nora Hunziker</title>
+  <meta name="robots" content="noindex" />
 </svelte:head>
 
 <center>

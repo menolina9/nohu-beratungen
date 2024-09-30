@@ -7,8 +7,13 @@
 </script>
 
 <svelte:head>
-	<title>Nora Hunziker</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Home | Nora Hunziker</title>
+	<meta name="description" content="Mehr Zufriedenheit durch das Wahrnehmen eigener Grenzen und das Ausbrechen aus alten Verhaltensmustern. Eigene Stärken entdecken und nutzen." />
+	<meta property="og:description" content="Mehr Zufriedenheit durch das Wahrnehmen eigener Grenzen und das Ausbrechen aus alten Verhaltensmustern." />
+	<link rel="canonical" href="https://nora-hunziker.ch" />
+	<meta property="og:title" content="Home - Nora Hunziker" />
+  <meta property="og:type" content="website" />
+	<meta property="og:image" content="https://nora-hunziker.ch/favicon.png" />
 </svelte:head>
 
 <section class="flex flex-col sm:flex-row gap-6 items-center p-6">

@@ -4,7 +4,53 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta property="og:site_name" content="Nora Hunziker" />
 		%sveltekit.head%
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "WebSite",
+				"name": "Nora Hunziker",
+				"url": "https://nora-hunziker.ch",
+				"alternateName": "Nora Hunziker | Psychologische Beratung IBP"
+			}
+		</script>
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Person",
+				"name": "Nora Hunziker",
+				"url": "https://nora-hunziker.ch",
+				"jobTitle": "Psychologische Beraterin IBP",
+				"sameAs": [
+					"https://www.linkedin.com/in/nora-hunziker-791537263",
+				]
+			}
+		</script>
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Organization",
+				"name": "Nora Hunziker | Psychologische Beratung IBP",
+				"url": "https://nora-hunziker.ch",
+				"logo": "https://www.nora-hunziker.ch/favicon.png",
+				"contactPoint": {
+					"@type": "ContactPoint",
+					"email": "info@nora-hunziker.ch",
+					"contactType": "General Inquiry",
+					"areaServed": "Switzerland",
+					"availableLanguage": ["German"]
+				},
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "Seestrasse 31",
+					"addressLocality": "Thun",
+					"addressRegion": "Bern",
+					"postalCode": "3600",
+					"addressCountry": "Switzerland"
+				}
+			}
+		</script>
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>

@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Impressum | Nora Hunziker</title>
+  <meta name="robots" content="noindex" />
 </svelte:head>
 
 <center>
