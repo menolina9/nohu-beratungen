@@ -56,6 +56,18 @@
   of using the nested screen objects
 -->
 <style>
+  .markdown :global(.gallery) {
+    @apply flex flex-col justify-start gap-8 w-[80%] lg:w-96 mx-12 lg:mx-6;
+  }
+
+  .markdown :global(.gallery-item) {
+    @apply rounded-sm cursor-pointer overflow-hidden;
+  }
+
+  .markdown :global(.gallery-item-image) {
+    @apply hover:scale-110 transition-all duration-700;
+  }
+
   .markdown :global(h1) {
     @apply text-xl font-bold mb-8 mt-14;
 
