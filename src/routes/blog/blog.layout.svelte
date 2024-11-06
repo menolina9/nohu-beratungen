@@ -57,7 +57,11 @@
 -->
 <style>
   .markdown :global(.gallery) {
-    @apply flex flex-col justify-start gap-8 w-[80%] lg:w-96 mx-12 lg:mx-6;
+    @apply flex flex-col justify-start gap-8 w-[80%] mx-12;
+
+    @screen sm {
+      @apply w-96 mx-6;
+    }
   }
 
   .markdown :global(.gallery-item) {
@@ -65,7 +69,11 @@
   }
 
   .markdown :global(.gallery-item-image) {
-    @apply hover:scale-110 transition-all duration-700;
+    @apply transition-all duration-700;
+  }
+
+  .markdown :global(.gallery-item-image:hover) {
+    @apply scale-110;
   }
 
   .markdown :global(h1) {
