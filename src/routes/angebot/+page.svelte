@@ -20,7 +20,7 @@
     <h1 class="text-3xl sm:text-4xl xl:text-7xl text-center mt-32 mb-16">Mein Angebot</h1>
 
     <p class="w-full text-start ml-10">
-      Wir begegnen im Leben immer wieder Situationen, in denen wir mit unserem gewohnten Verhalten nicht weiterkommen, oder in denen wir nicht wissen, wie wir mit ihnen umgehen sollen.<br><br>
+      Wir begegnen im Leben immer wieder Situationen, in denen wir mit unseren gewohnten Strategien nicht weiterkommen, oder in denen wir nicht wissen, wie wir mit ihnen umgehen sollen.<br><br>
       Einige Beispiele:<br>
     
       - Immer gleiche Auseinandersetzungen mit Partner:innen, Kolleg:innen oder Angehörigen<br>
@@ -36,7 +36,8 @@
       Psychologische Beratung ist keine Therapie.<br>
       Als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie dabei eigene Lösungen zu entwickeln und Ihren Themen
       auf den Grund zu gehen.<br>
-      Die Grundvoraussetzung hierfür ist, dass die Fähigkeit zu Selbststeuerung nicht eingeschränkt ist.
+      Die Grundvoraussetzung hierfür ist, dass die Fähigkeit zu Selbststeuerung nicht eingeschränkt ist.<br>
+
     </p>
   
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Vorgehen</h2>
@@ -48,6 +49,8 @@
       Ich unterstütze Sie in Ihrem individuellen Entwicklungsprozess und beim Erkennen Ihrer Stärken und Ressourcen.<br>
       Ebenso assistiere ich Ihnen beim Entwickeln neuer Wahrnehmungsweisen und Handlungsmöglichkeiten.<br>
       <br>
+      Diese erforschen wir praktisch mit mir als wertschätzendes und spiegelndes Gegenüber.<br><br>
+
       Wenn der geplante Zeitpunkt da ist, überprüfen wir gemeinsam, ob Ihr Ziel erreicht ist oder ob weitere Schritte notwendig sind.<br>
     </p>
   

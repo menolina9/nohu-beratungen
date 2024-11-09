@@ -35,7 +35,7 @@
     <div class="flex justify-center w-full">
       <div class="flex flex-col items-start select-none">
         <p>{published}</p>
-        <h1 class="text-3xl sm:text-4xl xl:text-7xl font-medium transition-all duration-300">{title}</h1>
+        <h1 class="text-xl sm:text-2xl xl:text-4xl font-medium transition-all duration-300">{title}</h1>
         <h2 class="text-lg sm:text-xl xl:text-3xl transition-all duration-300">{description}</h2>
       </div>
     </div>
@@ -45,9 +45,6 @@
   <Beam>
     <article class="markdown max-w-5xl p-6 lg:p-10">
       <slot />
-      <div class="my-96">Hallo</div>
-      <div class="my-96">Hallo</div>
-      <div class="my-96">Hallo</div>
     </article>
   </Beam>
 
@@ -59,6 +56,26 @@
   of using the nested screen objects
 -->
 <style>
+  .markdown :global(.gallery) {
+    @apply flex flex-col justify-start gap-8 w-[80%] mx-12;
+
+    @screen sm {
+      @apply w-96 mx-6;
+    }
+  }
+
+  .markdown :global(.gallery-item) {
+    @apply rounded-sm cursor-pointer overflow-hidden;
+  }
+
+  .markdown :global(.gallery-item-image) {
+    @apply transition-all duration-700;
+  }
+
+  .markdown :global(.gallery-item-image:hover) {
+    @apply scale-110;
+  }
+
   .markdown :global(h1) {
     @apply text-xl font-bold mb-8 mt-14;
 

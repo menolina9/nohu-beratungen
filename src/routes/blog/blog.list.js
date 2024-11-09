@@ -10,10 +10,17 @@
 /** @type {BlogPreview[]} */
 export const BlogPreviews = [
   {
-    route: "ichbineinblog",
-    title: "Ich bin ein Blog",
-    description: "Ich bin eine Beschreibung bli bla blub",
-    published: "26.07.2024",
-    image: "ichbineinblog.jpg"
+    route: "erschoepft",
+    title: "Belebende Perspektiven für müde Menschen",
+    description: "Buchvorstellung: Erschöpft? von Anna Katharina Schaffner",
+    published: "16.10.2024",
+    image: "erschoepft.jpg"
+  },
+  {
+    route: "einzug",
+    title: "Es kann losgehen",
+    description: "Praxisraum an der Seestrasse in Thun",
+    published: "6.11.2024",
+    image: "praxishaus.jpg", 
   }
 ]
