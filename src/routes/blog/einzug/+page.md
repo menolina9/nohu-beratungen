@@ -12,7 +12,7 @@ Ich freue mich sehr Teil der Gruppenpraxis 31 an der Seestrasse in Thun zu sein 
 
 Anbei einige Eindrücke:
 
-<div class="gallery" >
+<div class="gallery">
   <div class="gallery-item">
     <img class="gallery-item-image" src="/images/blog/wartebereich.jpg" alt="Wartebereich" />
   </div>
@@ -23,8 +23,4 @@ Anbei einige Eindrücke:
     <img class="gallery-item-image" src="/images/blog/raum2.jpg" alt="Raum 2" />
   </div>
 </div>
-
-
-
-
 

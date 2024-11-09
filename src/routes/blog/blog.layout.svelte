@@ -43,7 +43,7 @@
 
   
   <Beam>
-    <article class="markdown max-w-5xl p-6 lg:p-10">
+    <article class="markdown max-w-5xl lg:max-w-7xl p-6 lg:p-10">
       <slot />
     </article>
   </Beam>
@@ -57,19 +57,23 @@
 -->
 <style>
   .markdown :global(.gallery) {
-    @apply flex flex-col justify-start gap-8 w-[80%] mx-12;
+    @apply flex flex-col justify-start gap-8 mx-12 w-[80%];
 
     @screen sm {
-      @apply w-96 mx-6;
+      @apply flex-row flex-wrap justify-between mx-2 my-12 w-full;
     }
   }
 
   .markdown :global(.gallery-item) {
-    @apply rounded-sm cursor-pointer overflow-hidden;
+    @apply rounded-lg overflow-hidden w-max;
   }
 
   .markdown :global(.gallery-item-image) {
-    @apply transition-all duration-700;
+    @apply transition-all duration-700 cursor-pointer h-[200px];
+
+    @screen sm {
+      @apply h-[420px];
+    }
   }
 
   .markdown :global(.gallery-item-image:hover) {

@@ -33,6 +33,7 @@
 	function handleScroll() {
 		if (!ticking) {
 			if (typeof window !== 'undefined') {
+        height = beamContainer.scrollHeight;
 				window.requestAnimationFrame(() => {
 					scrollProgress = (window.scrollY + (window.innerHeight / 2)) / document.body.offsetHeight;
 					ticking = false;
@@ -43,9 +44,9 @@
 	}
 </script>
 
-<div class="relative px-4 mx-2" bind:this={beamContainer}>
+<div class="relative px-4 mx-2 h-full">
   <svg class="beam absolute top-0 left-0 z-0 stroke-slate-600 opacity-20" width="29" height="{height}" viewBox="0 0 29 {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 0L0 256L28 320L28 {height}L28" />
+    <path d="M0 0 L0 256 L28 320 L28 {height}" />
   </svg>
 
   <svg class="beam active absolute top-0 left-0 z-10 opacity-70" width="29" height="{height}" viewBox="0 0 29 {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -56,10 +57,12 @@
         <stop offset="100%" style="stop-color: var(--gradient-end);" />
       </linearGradient>
     </defs>
-    <path d="M0 0L0 256L28 320L28 {height}L28" stroke-dasharray="{height}" stroke-dashoffset="{height - ($scrollProgressTween * height)}"/>
+    <path d="M0 0 L0 256 L28 320 L28 {height}" stroke-dasharray="{height}" stroke-dashoffset="{height - ($scrollProgressTween * height)}"/>
   </svg>
   
-  <slot />
+  <div bind:this={beamContainer}>
+    <slot />
+  </div>
 </div>
 
 <style>
@@ -70,6 +73,5 @@
 
   .beam.active {
     stroke: url(#beamGradient);
-
   }
 </style>
