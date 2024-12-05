@@ -34,7 +34,7 @@
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>
     <p class="w-full text-start ml-10">
       Psychologische Beratung ist keine Therapie.<br>
-      Als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie dabei eigene Lösungen zu entwickeln und Ihren Themen
+      Auch als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie dabei eigene Lösungen zu entwickeln und Ihren Themen
       auf den Grund zu gehen.<br>
       Die Grundvoraussetzung hierfür ist, dass die Fähigkeit zu Selbststeuerung nicht eingeschränkt ist.<br>
 
