@@ -5,7 +5,7 @@ published: "12.12.2024"
 image: "faustregeln.jpg"
 ---
 
-#### 44 Faustregeln für Beruf, Beziehung und andere Baustellen *
+#### 44 Faustregeln für Beruf, Beziehung und andere Baustellen 
 
 Ein weiteres spannendes, witziges Büchlein von Krogerus und Tschäppeler mit einfachen treffenden Illustrationen.
 
