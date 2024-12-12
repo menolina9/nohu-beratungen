@@ -21,6 +21,14 @@ export const BlogPreviews = [
     title: "Es kann losgehen",
     description: "Praxisraum an der Seestrasse in Thun",
     published: "6.11.2024",
-    image: "praxishaus.jpg", 
+    image: "praxishaus.jpg"
+  
+  },
+  {
+    route: "faustregeln",
+    title: "Spannender Abschluss vom alten Jahr",
+    description: "Buchvorstellung: Faustregeln von Krogerus und Tschäppeler",
+    published: "12.12.2024",
+    image: "faustregeln.jpg"
   }
 ]
