@@ -30,5 +30,11 @@ export const BlogPreviews = [
     description: "Buchvorstellung: Faustregeln von Krogerus und Tschäppeler",
     published: "12.12.2024",
     image: "faustregeln.jpg"
-  }
-]
+  },
+  {
+  route: "grenzen",
+  title: "Grenzen und Eigenraum",
+  description: "Ueberlegungen zum Thema Grenzen",
+  published: "30.01.2025",
+  image: "grenzen.jpg"
+}
