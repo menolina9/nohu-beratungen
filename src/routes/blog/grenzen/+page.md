@@ -1,6 +1,6 @@
 ---
 title: "Grenzen und Eigenraum"
-description: "Ueberlegungen zum Thema Grenzen"
+description: "Wichtiges zum Thema Grenzen und Eigenraum in der integrativen Körperpsychotherapie IBP"
 published: "30.01.2025"
 image: "grenzen.jpg"
 ---
@@ -15,7 +15,7 @@ Im IBP Konzept verstehen wir darunter unseren «Eigenraum». Den Raum, der jeder
 Die Grenze ist die Linie, die den Eigenraum begrenzt. Sie ist flexibel, sodass andere willentlich näher herangelassen oder mehr auf Abstand gehalten werden können. 
 Gesunde Grenzen fördern authentische Beziehungen, da sie Nähe und Distanz bewusst regulieren.
 Ein gut wahrnehmbarer Eigenraum hilft, Emotionen zu regulieren.
-Die Arbeit mit der Grenze und dem Eigenraum im IBP Konzept ist zentral und hilft Klient:innen, sich selbst klarer zu spüren, Beziehungen gesünder zu gestalten und eine stabile emotionale Balance zu entwickeln.
+Die Arbeit mit der Grenze und dem Eigenraum im IBP Konzept ist zentral und unterstützt Klient:innen, sich selbst klarer zu spüren, Beziehungen gesünder zu gestalten und eine stabile emotionale Balance zu entwickeln.
 
 
 Quelle: «Einführung in die Integrative Körperpsychotherapie IBP (Integrative Body Psychotherapy), Eva Kaul/Markus Fischer»

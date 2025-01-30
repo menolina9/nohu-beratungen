@@ -32,9 +32,10 @@ export const BlogPreviews = [
     image: "faustregeln.jpg"
   },
   {
-  route: "grenzen",
-  title: "Grenzen und Eigenraum",
-  description: "Ueberlegungen zum Thema Grenzen",
-  published: "30.01.2025",
-  image: "grenzen.jpg"
-}
+    route: "grenzen",
+    title: "Grenzen und Eigenraum",
+    description: "Wichtiges zum Thema Grenzen und Eigenraum in der integrativen Körperpsychotherapie IBP",
+    published: "30.01.2025",
+    image: "grenzen.jpg"
+  }
+]
