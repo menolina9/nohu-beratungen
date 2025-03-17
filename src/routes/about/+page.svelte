@@ -35,7 +35,9 @@
       Ich bin eine offene, neugierige und lebensbejahende Frau und schätze alle kleinen Dinge um mich und in mir.<br>
       Gerne bin ich in der Natur unterwegs; sowohl in der Stille alleine, wie auch in Begleitung von lieben Menschen.<br>
       Meine Liebe zu Büchern besteht seit ich denken kann. <br><br>
-      Als Mutter von zwei Kindern (2006/2008) lebe ich mit meinem Partner zusammen, welcher ebenfalls zwei Kinder im gleichen Alter hat.
+      Als Mutter von zwei Kindern (2006/2008) lebe ich mit meinem Partner zusammen, welcher ebenfalls zwei Kinder im gleichen Alter hat.<br><br>
+      Im Alter von 43 Jahren stiess ich auf das Thema der Hochsensibilität. Darin erkannte ich mich erstmals wieder und konnte mein "anderssein" endlich in einen für mich sinnvollen Zusammenhang setzen. Heute bin ich sehr dankbar, so tief zu fühlen, und habe grosses Vertrauen in meine Intuition.
+
     </p>
 
     <h2 class="text-2xl sm:text-4xl text-center my-12">Werdegang</h2>

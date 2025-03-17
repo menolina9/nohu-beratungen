@@ -28,7 +28,9 @@
       - Sehnsucht etwas Neues anzugehen und sich selbst im Weg stehen
       <br><br>
 
-      Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.
+      Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
+      In folgenden Bereichen bringe ich besonders viel Wissen und Erfahrung mit:<br>
+      Neurodivergenz (Hochsensibilität, AD(H)S, ASS), Perspektivenwechsel (beispielsweise in der Perimenopause), People pleasing, Trennung, Patchworkfamilie.
     </p>
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>

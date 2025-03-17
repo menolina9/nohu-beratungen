@@ -5,9 +5,9 @@ published: "6.11.2024"
 image: "praxishaus.jpg"
 ---
 
-Ab heute habe ich das Glück in Cornelia Reussers wunderschönem Raum Untermieterin zu sein und meine Beratungen anzubieten. 
+Ab heute habe ich das Glück, in Cornelia Reussers wunderschönem Raum Untermieterin zu sein und meine Beratungen anzubieten. 
 
-Ich freue mich sehr Teil der Gruppenpraxis 31 an der Seestrasse in Thun zu sein und auf alle Begegnungen die ich hier erfahren werde!
+Ich freue mich sehr, Teil der Gruppenpraxis 31 an der Seestrasse in Thun zu sein und auf alle Begegnungen die ich hier erfahren werde!
 
 
 Anbei einige Eindrücke:
