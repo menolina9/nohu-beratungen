@@ -37,5 +37,14 @@ export const BlogPreviews = [
     description: "Wichtiges zum Thema Grenzen und Eigenraum in der integrativen Körperpsychotherapie IBP",
     published: "30.01.2025",
     image: "grenzen.jpg"
-  }
+  },
+  {
+    route: "fruehling",
+    title: "Frühling- oder was er uns sagen will",
+    description: "Etwas neu anfangen, sich kennenlernen, hinschauen....",
+    published: "09.04.2025",
+    image: "magnolie.jpg"
+  },
+  
+
 ]
