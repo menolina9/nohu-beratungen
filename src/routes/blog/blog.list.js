@@ -41,7 +41,7 @@ export const BlogPreviews = [
   {
     route: "fruehling",
     title: "Frühling- oder was er uns sagen will",
-    description: "Etwas neu anfangen, sich kennenlernen, hinschauen....",
+    description: "Etwas Neues anfangen, sich kennenlernen, hinschauen....",
     published: "09.04.2025",
     image: "magnolie.jpg"
   },
