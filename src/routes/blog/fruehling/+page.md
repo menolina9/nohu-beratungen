@@ -1,6 +1,6 @@
 ---
 title: "Frühling- oder was er uns sagen will"
-description: "Etwas neu anfangen, sich kennenlernen, hinschauen...."
+description: "Etwas Neues anfangen, sich kennenlernen, hinschauen...."
 published: "09.04.2025"
 image: "magnolie.jpg"
 ---
@@ -14,10 +14,12 @@ von überall her erscholl das starke, wilde Lied des Frühlings.
 (aus „Ronja Räubertochter“ von Astrid Lindgren)
 
 
-Wenn ich im Moment aus der Türe unseres Praxisraumes schaue, leuchten mir die wundervollen Farben des riesigen Magnolienbaumes entgegen. Wie wunderbar!
+Wenn ich im Moment aus der Tür unseres Praxisraumes schaue, leuchten mir die wundervollen Farben des riesigen Magnolienbaumes entgegen. Wie wunderbar!
 
-Im Frühling erwacht das Leben erneut und zeigt sich in seiner vollen Pracht. Vielleicht wagen Sie es dieses Jahr, sich genauer mit sich auseinanderzusetzen? Mit Ihrem Wesen, Ihrem Sein, Ihren Wünschen und Zielen und dem, was diesen vielleicht im Weg steht?
+Im Frühling erwacht das Leben erneut und zeigt sich in seiner vollen Pracht.
 
-Ich begleite Sie gerne auf diesem Weg in dem Rahmen, in dem Sie sich wohlfühlen und es für Sie gewinnbringend ist.
+Vielleicht wagen Sie es dieses Jahr, sich genauer mit sich auseinanderzusetzen? Mit Ihrem Wesen, Ihrem Sein, Ihren Wünschen und Zielen und dem, was diesen vielleicht im Weg steht?
+
+Ich begleite Sie gerne auf Ihrer "Reise" in dem Rahmen, in dem Sie sich wohlfühlen und es für Sie gewinnbringend ist.
 
 Wundervolle Frühlingstage Ihnen.
