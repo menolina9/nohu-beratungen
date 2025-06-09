@@ -15,7 +15,7 @@ Es sind einige Punkte aufgeführt, welche gegen eine formale Diagnostik und eini
 
 Themen wie Identität, Selbstbild und Anderssein werden immer wieder aufgegriffen und auch, wie das eigene Verhalten selbst bewertet wird. Es geht darum, dass Löffel eingeteilt werden müssen und dass das «Verstecken» des Anderssein (Masking) zusätzliche Löffel nebenher verbraucht, so dass danach weniger übrig bleiben für die Bewältigung des Alltags.
 
-Auch dem Umgang damit wird ein grosser Teil gewidmet und unter anderem die Ergotherapie als hilfreiche Unterstützung genannt, was mich natürlich besonders freut. Im Selbsthilfeteil findet auch das zentrale von IBP «Hör auf Deinen Körper» mit Achtsamkeitsübungen, Bodyscan, etc. einen wichtigen Platz. Und der Teil der Selbstfürsorge mit «Wenn du nicht gut für dich sorgst, wer dann?» wird ebenfalls explizit hervorgehoben.
+Auch dem Umgang damit wird ein grosser Teil gewidmet und unter anderem die Ergotherapie als hilfreiche Unterstützung genannt, was mich natürlich besonders freut. Im Selbsthilfeteil findet auch das Zentrale von IBP «Hör auf Deinen Körper» mit Achtsamkeitsübungen, Bodyscan, etc. einen wichtigen Platz. Und der Teil der Selbstfürsorge mit «Wenn du nicht gut für dich sorgst, wer dann?» wird ebenfalls explizit hervorgehoben.
 
 Insgesamt ein total empfehlenswertes Buch mit relevanten Inputs, viel Klarheit und Unterstützungsmöglichkeiten für den Umgang mit dem «irgendwie anders».
 
