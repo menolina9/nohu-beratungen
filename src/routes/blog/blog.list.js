@@ -45,6 +45,13 @@ export const BlogPreviews = [
     published: "09.04.2025",
     image: "magnolie.jpg"
   },
+  {
+    route: "autismus",
+    description: "Die Welt autistischer Frauen und Mädchen von Manon Mannherz,Ismene Ditrich,Christa Koentges",
+    title: "Ist normal, was die anderen normal finden?",
+    published: "09.06.2025",
+    image: "autismus.jpg"
+  },
   
 
 ]
