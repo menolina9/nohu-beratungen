@@ -51,6 +51,13 @@ export const BlogPreviews = [
     title: "Ist normal, was die anderen normal finden?",
     published: "09.06.2025",
     image: "autismus.jpg"
+  }, 
+  {
+    route: "kartensets",
+    description: "Gedanken über den Einsatz von Achtsamkeits- und Körperübungskarten",
+    title: "Erforschen, forschen, neugierig sein, hinschauen",
+    published: "21.08.2025",
+    image: "kartensets.jpg"
   },
   
 
