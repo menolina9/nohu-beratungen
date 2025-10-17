@@ -59,6 +59,12 @@ export const BlogPreviews = [
     published: "21.08.2025",
     image: "kartensets.jpg"
   },
-  
+  {
+    route: "overthinking",
+    description: "Buchvorstellung: Stop Overthinking oder 23 Techniken, um Stress abzubauen, Negativspiralen zu unterbrechen und den Geist zu entlasten von Nick Trenton",
+    title: "«Wenn wir unsere Sichtweise verändern, sehen wir die Dinge anders.»",
+    published: "17.10.2025",
+    image: "overthinking.jpg"
+  },
 
 ]
