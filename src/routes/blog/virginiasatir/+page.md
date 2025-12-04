@@ -16,7 +16,7 @@ Was die US-amerikanische Psychotherapeutin sich vor langer Zeit als ihr grösste
 
 Was schenken Sie sich untereinander?
 
-Ich wünsche Ihnen von Herzen eine wundervolle Adventszeit, in der Sie gesehen und gehört werden, genau so, wie Sie sind.
+Ich wünsche Ihnen von Herzen eine wundervolle Adventszeit, in der Sie gesehen, gehört und verstanden werden. Und in der Sie sich Zeit nehmen, zu sehen, zu hören und zu verstehen. Eine Advents- und Weihnachtszeit in der Kontakt entstehen darf und das Herz gewärmt wird.
 
 
 
