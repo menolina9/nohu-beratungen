@@ -66,5 +66,12 @@ export const BlogPreviews = [
     published: "17.10.2025",
     image: "overthinking.jpg"
   },
+  {
+    route: "virginiasatir",
+    description: "Virginia Satir und ihr Glaube an das grösste Geschenk ",
+    title: "Was ist Ihr grösstes Geschenk?",
+    published: "04.12.2025",
+    image: "virginiasatir.jpg"
+  },
 
 ]
