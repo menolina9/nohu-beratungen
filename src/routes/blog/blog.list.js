@@ -75,7 +75,7 @@ export const BlogPreviews = [
   },
  {
     route: "körperundpsyche",
-    description: "..und der Zusammenhang von Körper und Psyche.. ",
+    description: "..oder der Zusammenhang von Körper und Psyche.. ",
     title: "Wenn uns eine «Last von den Schultern» ein «Stein vom Herzen» fällt….",
     published: "18.02.2026",
     image: "körperundpsyche.jpg"
