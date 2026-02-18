@@ -29,8 +29,10 @@
       <br><br>
 
       Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
-      In folgenden Bereichen bringe ich besonders viel Wissen und Erfahrung mit:<br>
-      Neurodivergenz (Hochsensibilität, AD(H)S, ASS), Perspektivenwechsel (beispielsweise in der Perimenopause), People pleasing, Trennung, Patchworkfamilie.
+      Ebenso begleite ich Erwachsene, die sich oft angepasst, überfordert oder innerlich erschöpft fühlen, insbesondere auch Menschen im ADHS oder Autismus-Spektrum sowie
+      Personen, die gelernt haben, sich selbst zurückzustellen (Hochsensibilität, People pleasing).<br>
+      In folgenden Bereichen bringe ich ebenfalls viel Wissen und Erfahrung mit:<br>
+      Perspektivenwechsel (beispielsweise in der Perimenopause), Trennung, Patchworkfamilie.
     </p>
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>
