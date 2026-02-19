@@ -1,5 +1,5 @@
 ---
-title: "Wenn uns eine «Last von den Schultern» ein «Stein vom Herzen» fällt…"
+title: "Wenn uns eine «Last von den Schultern», ein «Stein vom Herzen» fällt…"
 description: "..oder der Zusammenhang von Körper und Psyche.."
 published: "18.02.2026"
 image: "körperundpsyche.jpg"
@@ -11,7 +11,7 @@ Am Samstag, Valentinstag, fand meine Prüfung zur psychologischen Beraterin IBP 
 Trotzdem ist mir am Samstagabend buchstäblich ein Stein vom Herzen, eine Last von den Schultern gefallen.
 Ich fühlte mich sofort deutlich leichter, freier, bereit für neue Abenteuer - was für ein wundervolles Gefühl!
 
-Der Körper ist ein wichtiger Teil von uns. Er wiederspiegelt, wie es uns geht, emotional und psychisch. 
+Der Körper ist ein wichtiger Teil von uns. Er widerspiegelt, wie es uns geht, emotional und psychisch. 
 Psyche und Körper beeinflussen sich gegenseitig. 
 
 
