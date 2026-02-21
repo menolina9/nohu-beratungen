@@ -63,12 +63,15 @@
 	</h1>
 
 	<p class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
-		Wenn Sie Unterstützung und Begleitung auf diesem Weg möchten, bin ich für Sie da. <br><br>
+		Wenn Sie sich Unterstützung und achtsame Begleitung auf diesem Weg wünschen, bin ich sehr gern für Sie da. <br><br><br>
 
 
-		Meine Schwerpunkte liegen in der Begleitung von:<br>
-		 Hochsensiblen Menschen, Personen, die sich im People-pleasing- Muster wiederfinden sowie von Menschen im ADHS- und/oder Autismus-Spektrum. <br>
-		 Zudem unterstütze ich Personen in Umbruchphasen (Trennung, Frauen in der Perimenopause oder Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen wollen)
+
+		Ich begleite insbesondere:<br><br>
+		 Hochsensible Menschen, Personen, die sich im People-pleasing-Muster wiederfinden sowie Menschen im ADHS- und/oder Autismus-Spektrum. <br><br>
+
+		 Personen in Umbruchphasen (z.B. nach einer Trennung oder in der Perimenopause) und Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen oder sich weiterentwickeln wollen. <br>
+		 
 
 	</p>
 
