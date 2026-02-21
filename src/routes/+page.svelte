@@ -63,7 +63,13 @@
 	</h1>
 
 	<p class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
-		Wenn Sie Unterstützung und Begleitung auf diesem Weg möchten, bin ich für Sie da.
+		Wenn Sie Unterstützung und Begleitung auf diesem Weg möchten, bin ich für Sie da. <br><br>
+
+
+		Meine Schwerpunkte liegen in der Begleitung von:<br>
+		 Hochsensiblen Menschen, Personen, die sich im People-pleasing- Muster wiederfinden sowie von Menschen im ADHS- und/oder Autismus-Spektrum. <br>
+		 Zudem unterstütze ich Personen in Umbruchphasen (Trennung, Frauen in der Perimenopause oder Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen wollen)
+
 	</p>
 
 	<a href="/angebot" class="text-center text-slate-700 text-opacity-50 hover:bg-slate-800 hover:bg-opacity-5 hover:text-opacity-80 rounded-lg py-2 px-6 transition-all duration-500">Mein Angebot</a>
