@@ -68,7 +68,7 @@
 
 
 		Ich begleite insbesondere:<br><br>
-		 Hochsensible Menschen, Personen, die sich im People-pleasing-Muster wiederfinden sowie Menschen im ADHS- und/oder Autismus-Spektrum. <br><br>
+		 Hochsensible Menschen, Personen, die sich oft anpassen und erschöpft sind, sowie Menschen im ADHS- und/oder Autismus-Spektrum. <br><br>
 
 		 Personen in Umbruchphasen (z.B. nach einer Trennung oder in der Perimenopause) und Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen oder sich weiterentwickeln wollen. <br>
 		 
