@@ -63,7 +63,7 @@
 	</h1>
 
 	<p class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
-		Wenn Sie sich Unterstützung und achtsame Begleitung auf diesem Weg wünschen, bin ich sehr gern für Sie da. <br><br><br>
+		Wenn Sie sich Unterstützung und achtsame Begleitung auf diesem Weg wünschen, bin ich sehr gerne für Sie da. <br><br><br>
 
 
 
