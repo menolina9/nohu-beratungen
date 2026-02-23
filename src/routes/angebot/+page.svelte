@@ -31,7 +31,7 @@
       <br><br>
 
       Ich biete Einzelberatung an für Menschen, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
-      Ausserdem begleite ich Erwachsene, die sich oft angepasst, überfordert oder innerlich erschöpft fühlen; insbesondere Menschen im ADHS-und/oder Autismus-Spektrum, die sich selbst besser verstehen und ihren Weg finden wollen. <br>
+      Ausserdem begleite ich Erwachsene, die sich oft angepasst, überfordert oder innerlich erschöpft fühlen; insbesondere Menschen im ADHS-und Autismus-Spektrum, die sich selbst besser verstehen und ihren Weg finden wollen. <br>
       Personen, die gelernt haben, sich selbst zurückzustellen (Hochsensibilität, People pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
       Auch in folgenden Bereichen bringe ich viel Wissen und Erfahrung mit:<br>
       Perspektivenwechsel (beispielsweise in der Perimenopause), Trennung, Patchworkfamilie.
@@ -59,6 +59,24 @@
 
       Wenn der geplante Zeitpunkt da ist, überprüfen wir gemeinsam, ob Ihr Ziel erreicht ist oder ob weitere Schritte notwendig sind.<br>
     </p>
+
+
+
+    <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Praxis</h2>
+    <div class="flex flex-wrap gap-2 items-center justify-between">
+      <a href="/images/blog/praxishaus.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis" src="/images/blog/praxishaus.jpg" />
+      </a>
+      <a href="/images/blog/wartebereich.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis Wartebereich" src="/images/blog/wartebereich.jpg" />
+      </a>
+      <a href="/images/blog/raum1.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/raum1.jpg" />
+      </a>
+      <a href="/images/blog/raum2.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/raum2.jpg" />
+      </a>
+    </div>
   
     <TextGenerateEffect 
       segments={[

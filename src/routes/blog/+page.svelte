@@ -49,7 +49,7 @@
 </section>
 
 <section class="flex flex-col gap-4 my-6">
-  {#each BlogPreviews as blogPreview}
+  {#each BlogPreviews.reverse() as blogPreview}
 
   <a use:inview
     on:change={(/** @type {any} */ e) => {

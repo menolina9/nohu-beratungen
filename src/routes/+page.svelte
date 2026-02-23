@@ -68,9 +68,9 @@
 
 
 		Ich begleite insbesondere:<br><br>
-		 Hochsensible Menschen, Personen, die sich oft anpassen und erschöpft sind, sowie Menschen im ADHS- und/oder Autismus-Spektrum. <br><br>
+		 <b>Hochsensible</b> Menschen, Personen, die sich oft anpassen und <b>erschöpft</b> sind, sowie Menschen im <b>ADHS-</b> und <b>Autismus-Spektrum</b>. <br><br>
 
-		 Personen in Umbruchphasen (z.B. nach einer Trennung oder in der Perimenopause) und Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen oder sich weiterentwickeln wollen. <br>
+		 Personen in <b>Umbruchphasen</b> (z.B. nach einer <b>Trennung</b> oder in der <b>Perimenopause</b>) und Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen oder sich weiterentwickeln wollen. <br>
 		 
 
 	</p>
