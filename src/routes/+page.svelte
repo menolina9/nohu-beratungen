@@ -80,6 +80,7 @@
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Persönliche Entwicklung ist für mich eine Herzensangelegenheit.
+			
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Die Beziehung zu sich selbst und anderen zu fördern, ist meine Leidenschaft.
