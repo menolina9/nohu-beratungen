@@ -136,10 +136,14 @@
 
 	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-5/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Die psychologische Beratung wird nicht von der Krankenkasse übernommen.
+		Eine Sitzung dauert 60 Minuten und kostet CHF 120.– pro Stunde. <br>
+		Die Beratung ist für alle Problemstellungen geeignet, die nicht in den Bereich psychischer Erkrankungen fallen. <br>
+		Aus diesem Grund werden die Kosten nicht von der Krankenkasse übernommen. 
+
+	
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Da ich zur Zeit noch in Ausbildung bin, betragen die Kosten für 1h/80.-.
+			Im Falle eines finanziellen Engpasses besteht die Möglichkeit einer Kostenermässigung. 
 		</p>
 	</div>
 </section>
