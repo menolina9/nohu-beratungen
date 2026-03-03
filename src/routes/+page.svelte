@@ -136,16 +136,16 @@
 
 	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-5/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-		Eine Sitzung dauert 60 Minuten und kostet CHF 120.– pro Stunde. <br>
-		Meistens ist mehr als eine Einheit notwendig. <br>
-		Die Möglichkeit besteht, direkt drei Sitzungen für 340.-, zu vereinbaren.<br>
-		Die Beratung ist für alle Problemstellungen geeignet, die nicht in den Bereich psychischer Erkrankungen fallen. <br>
-		Deshalb werden die Kosten nicht von der Krankenkasse übernommen. 
+		Eine Sitzung dauert 60 Minuten und kostet <br>CHF 120.–. <br>
+		Oft benötigt es mehr als eine Beratung, um nachhaltige Veränderungen anzustossen. <br><br>
+	Gerne können Sie auch ein Paket von drei Sitzungen zum Preis von CHF 340.- buchen.<br><br>
+		Die Beratung richtet sich an Menschen mit persönlichen oder beruflichen Anliegen, die nicht den Bereich psychischer Erkrankungen betreffen. <br>
+		Daher werden die Kosten nicht von der Krankenkasse übernommen. 
 
 	
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Im Falle eines finanziellen Engpasses besteht die Möglichkeit einer Kostenermässigung. 
+			Im Falle eines finanziellen Engpasses besteht nach Absprache die Möglichkeit einer Kostenermässigung. 
 		</p>
 	</div>
 </section>
