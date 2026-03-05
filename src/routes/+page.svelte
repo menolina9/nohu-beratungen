@@ -66,7 +66,7 @@
 			Raus aus der Erschöpfung – zurück zu sich selbst.<br>
 
 		</h1>
-		Professionelle Begleitung bei Neurodivergenz, Umbrüchen und innerer Daueranspannung.
+		Professionelle Begleitung bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz.
 		<br><br><br>
 		Verlieren Sie sich manchmal selbst? Vermuten Sie, neurodivergent zu sein, und möchten einen stimmigen Umgang damit finden?<br>
 		Sind Selbstzweifel und innere Orientierungslosigkeit Ihnen bekannt?<br><br><br>
@@ -78,8 +78,8 @@
 			Ich bin für Sie da, wenn Sie...
 		</p>
 		<ul class="list-disc ml-5 text-start text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			<li><b>hochsensibel</b> sind oder sich im <b>ADHS-/Autismus-Spektrum</b> erleben.</li>
 			<li>sich durch ständiges Anpassen <b>erschöpft</b> fühlen.</li>
+			<li><b>hochsensibel</b> sind oder sich im <b> ADHS-/Autismus-Spektrum</b> erleben.</li>
 			<li>in einer Umbruchphase stecken (z. B. <b>Trennung oder Perimenopause</b>).</li>
 			<li>den Wunsch nach echter Weiterentwicklung und einem Neuanfang spüren.</li>
 		</ul>
