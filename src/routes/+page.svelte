@@ -30,7 +30,6 @@
 </section>
 
 <section class="flex flex-col justify-center gap-6 items-center my-12 sm:my-20">
-
 	<h1 class="mb-0">
 		<Typewriter 
 			texts={[
@@ -62,21 +61,32 @@
 		/>
 	</h1>
 
-	<p class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
-		Wenn Sie sich Unterstützung und achtsame Begleitung auf diesem Weg wünschen, bin ich sehr gerne für Sie da. <br><br><br>
+	<section class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
+		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
+			Raus aus der Erschöpfung – zurück zu sich selbst.<br>
 
+		</h1>
+		Professionelle Begleitung bei Neurodivergenz, Umbrüchen und innerer Daueranspannung.
+		<br><br><br>
+		Verlieren Sie sich manchmal selbst? Vermuten Sie, neurodivergent zu sein, und möchten einen stimmigen Umgang damit finden?<br>
+		Sind Selbstzweifel und innere Orientierungslosigkeit Ihnen bekannt?<br><br><br>
+		<b>Ich begleite Sie auf Ihrem Weg aus mentaler und physischer Überlastung - hin zu echtem Selbstvertrauen und innerer Sicherheit. <br><br><br></b>
+	</section>
 
-
-		Ich begleite insbesondere:<br><br>
-		 <b>Hochsensible</b> Menschen, Personen, die sich oft anpassen und <b>erschöpft</b> sind, sowie Erwachsene im <b>ADHS-</b> und <b>Autismus-Spektrum</b>. <br><br>
-
-		 Personen in <b>Umbruchphasen</b> (z.B. nach einer <b>Trennung</b> oder in der <b>Perimenopause</b>) und Menschen, die spüren, dass sie etwas Neues in ihrem Leben beginnen oder sich weiterentwickeln wollen. <br>
-		 
-
-	</p>
+	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
+		<p class="font-bold text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Ich bin für Sie da, wenn Sie...
+		</p>
+		<ul class="list-disc ml-5 text-start text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			<li><b>hochsensibel</b> sind oder sich im <b>ADHS-/Autismus-Spektrum</b> erleben.</li>
+			<li>sich durch ständiges Anpassen <b>erschöpft</b> fühlen.</li>
+			<li>in einer Umbruchphase stecken (z. B. <b>Trennung oder Perimenopause</b>).</li>
+			<li>den Wunsch nach echter Weiterentwicklung und einem Neuanfang spüren.</li>
+		</ul>
+	</div>
 
 	<a href="/angebot" class="text-center text-slate-700 text-opacity-50 hover:bg-slate-800 hover:bg-opacity-5 hover:text-opacity-80 rounded-lg py-2 px-6 transition-all duration-500">Mein Angebot</a>
-
+	
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Persönliche Entwicklung ist für mich eine Herzensangelegenheit.
@@ -136,8 +146,9 @@
 
 	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-5/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+		
 		Eine Sitzung dauert 60 Minuten und kostet <br>CHF 120.–. <br>
-		Oft benötigt es mehr als eine Beratung, um nachhaltige Veränderungen anzustossen. <br><br>
+		Meist ist mehr als eine Beratung nötig, um nachhaltige Veränderungen anzustossen. <br><br>
 	Gerne können Sie auch ein Paket von drei Sitzungen zum Preis von CHF 340.- buchen.<br><br>
 		Die Beratung richtet sich an Menschen mit persönlichen oder beruflichen Anliegen, die nicht den Bereich psychischer Erkrankungen betreffen. <br>
 		Daher werden die Kosten nicht von der Krankenkasse übernommen. 

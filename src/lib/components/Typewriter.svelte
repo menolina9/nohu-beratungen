@@ -26,7 +26,7 @@
 	export let cursorClassName = undefined;
 
 	/** @type {"hidden" | "pause" | "visible"} */
-	let animationState = "hidden";
+	let animationState = "visible";
 
 	/** @type {Text} */
 	let animatedText = {
@@ -37,6 +37,7 @@
 	let animatedTextIdx = 0;
 
 	onMount(() => {
+		animatedText = texts[texts.length-1]
 		setInterval(() => {
 			switch (animationState) {
 				case "hidden":
@@ -76,7 +77,7 @@
 	<Motion
 		let:motion
 		initial={{
-			width: 0
+			width: "fit-content"
 		}}
 		variants={variants}
 		animate={animationState}
