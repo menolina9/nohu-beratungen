@@ -66,11 +66,11 @@
 			Raus aus der Erschöpfung – zurück zu sich selbst.<br>
 
 		</h1>
-		Professionelle Begleitung bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz.
+		<h2 class="font-bold text-base lg:text-xl xl:text-1xl">Professionelle Begleitung bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz.</h2>
 		<br><br><br>
-		Verlieren Sie sich manchmal selbst? Vermuten Sie, neurodivergent zu sein, und möchten einen stimmigen Umgang damit finden?<br>
-		Sind Selbstzweifel und innere Orientierungslosigkeit Ihnen bekannt?<br><br><br>
-		<b>Ich begleite Sie auf Ihrem Weg aus mentaler und physischer Überlastung - hin zu echtem Selbstvertrauen und innerer Sicherheit. <br><br><br></b>
+		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br>
+		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br><br><br>
+		<b>Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit. <br><br><br></b>
 	</section>
 
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
