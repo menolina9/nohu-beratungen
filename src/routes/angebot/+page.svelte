@@ -31,8 +31,8 @@
       <br><br>
 
       Ich biete Einzelberatung an für Erwachsene, die immer bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
-      Ausserdem begleite ich Menschen, die sich oft angepasst, überfordert oder innerlich erschöpft fühlen; insbesondere Erwachsene im ADHS-und Autismus-Spektrum, die sich selbst besser verstehen und ihren Weg finden wollen. <br>
-      Personen, die gelernt haben, sich selbst zurückzustellen (Hochsensibilität, People pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
+      Ausserdem begleite ich Menschen, die sich oft angepasst, überlastet oder innerlich erschöpft fühlen; insbesondere Erwachsene im ADHS-und Autismus-Spektrum, die sich selbst besser verstehen und ihren Weg finden wollen. <br><br>
+      Personen, die gelernt haben, sich selbst zurückzustellen (Hochsensibilität, People Pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
       Auch in folgenden Bereichen bringe ich viel Wissen und Erfahrung mit:<br>
       Perspektivenwechsel (beispielsweise in der Perimenopause), Trennung, Patchworkfamilie.
     </p>
