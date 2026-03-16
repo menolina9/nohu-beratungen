@@ -101,6 +101,10 @@
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Ich freue mich, Sie mit Humor und Mitgefühl in Ihrem persönlichen Prozess zu begleiten und gemeinsam neue Möglichkeiten zu erkunden.
 		</p>
+
+		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+			Nehmen Sie Kontakt auf - Ich freue mich auf Sie!
+		</a>
 	</div>
 
 	<TextGenerateEffect 

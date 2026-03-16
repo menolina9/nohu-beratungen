@@ -19,25 +19,31 @@
   <section class="flex flex-col justify-center items-center gap-8 sm:w-7/12 w-9/12 transition-all duration-500">
     <h1 class="text-3xl sm:text-4xl xl:text-7xl text-center mt-32 mb-16">Mein Angebot</h1>
 
-    <p class="w-full text-start ml-10">
+    <section class="w-full text-start ml-10">
       Wir begegnen im Leben immer wieder Situationen, in denen wir mit unseren gewohnten Strategien nicht weiterkommen, oder in denen wir nicht wissen, wie wir mit ihnen umgehen sollen.<br><br>
       Einige Beispiele:<br>
-    <u1>
-      <li>Immer gleiche Auseinandersetzungen mit Partner:innen, Kolleg:innen oder Angehörigen</li> 
-      <li>Konfliktreiche und herausfordernde Situationen (am Arbeitsplatz, in der Familie, der Partnerschaft oder im Freundeskreis)</li> 
-      <li>Sehnsucht etwas Neues anzugehen und sich selbst im Weg stehen</li> 
-      <li>Selbstzweifel und innere Überforderung</li> 
-      <li>Schwierigkeiten mit dem Setzen von Grenzen</li> 
-      <br>
-    </u1>
-      
+      <ul class="ml-4 list-disc text-start">
+        <li>Immer gleiche Auseinandersetzungen mit Partner:in, Kolleg:innen oder Angehörigen</li> 
+        <li>Konfliktreiche und herausfordernde Situationen (am Arbeitsplatz, in der Familie, der Partnerschaft oder im Freundeskreis)</li> 
+        <li>Sehnsucht etwas Neues anzugehen und sich selbst im Weg stehen</li> 
+        <li>Selbstzweifel und innere Überforderung</li> 
+        <li>Schwierigkeiten mit dem Setzen von Grenzen</li>
+      </ul>
+    </section>
 
+    <section class="w-full text-start ml-10">
       Ich biete <b>Einzelberatung</b> an für <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
       Ausserdem begleite ich Menschen, die sich oft angepasst, überlastet oder innerlich erschöpft fühlen; insbesondere Erwachsene im ADHS-und Autismus-Spektrum, die sich selbst besser verstehen und ihren Weg finden wollen. <br><br>
       Personen, die gelernt haben, sich selbst zurückzustellen (Hochsensibilität, People Pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
       Auch in folgenden Bereichen bringe ich viel Wissen und Erfahrung mit:<br>
-      <li>Perspektivenwechsel (beispielsweise in der Perimenopause)</li><li>Trennung, Verlust</li><li>Patchworkfamilie</li>
-    </p>
+    
+      <ul class="ml-4 list-disc text-start w-full">
+        <li>Perspektivenwechsel (beispielsweise in der Perimenopause)</li>
+        <li>Trennung, Verlust</li>
+        <li>Patchworkfamilie</li>
+      </ul>
+    </section>
+
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>
     <p class="w-full text-start ml-10">
