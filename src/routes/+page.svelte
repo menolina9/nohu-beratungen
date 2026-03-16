@@ -68,8 +68,8 @@
 		</h1>
 		Professionelle Begleitung bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz.
 		<br><br><br>
-		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br>
-		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br><br><br>
+		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
+		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
 		<b>Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit. <br><br><br></b>
 	</section>
 
