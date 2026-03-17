@@ -81,7 +81,8 @@
 			<li>sich durch ständiges Anpassen <b>erschöpft</b> fühlen.</li>
 			<li><b>hochsensibel</b> sind oder sich im <b> ADHS-/Autismus-Spektrum</b> erleben.</li>
 			<li>in einer Umbruchphase stecken (z. B. <b>Trennung oder Perimenopause</b>).</li>
-			<li>den Wunsch nach echter Weiterentwicklung und einem Neuanfang spüren.</li>
+			<li>den Wunsch nach echter <b>Weiterentwicklung</b> und einem <b>Neuanfang</b> spüren.</li>
+			<li>Ihr <b>Selbstvertrauen stärken</b> und lernen möchten, sicherer für sich einzustehen. </li>
 		</ul>
 	</div>
 
