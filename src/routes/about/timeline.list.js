@@ -9,9 +9,14 @@ export const TimelineItems = [
    {
     time: " März 2026",
     content: [
-      "Diplom: Psychosoziale Beraterin IBP / Psychologische Beraterin IBP - SGfB anerkannt",
-      "Diplom: Coach IBP - bso anerkannt "
-    ]
+      "Diplome:",
+    
+      "Psychosoziale Beraterin IBP",
+      "Psychologische Beraterin IBP",
+      "SGfB anerkannt" ,
+      "Coach IBP - bso anerkannt" ,
+      
+    ]  
   },
   {
     time: "2023-2026",
