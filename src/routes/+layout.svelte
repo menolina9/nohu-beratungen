@@ -30,7 +30,7 @@
 		<section class="flex flex-col gap-2">
 			<h1 class="text-slate-600 font-semibold opacity-70">Kontakt</h1>
 			<p class="text-sm">
-				+41 79 598 36 31<br>
+				+41 79 598 36 31 (Mo/Mi/Do)<br>
 				info@nora-hunziker.ch<br>
 				Seestrasse 31, 3600 Thun<br>
 			</p>

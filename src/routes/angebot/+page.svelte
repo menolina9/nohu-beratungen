@@ -63,12 +63,10 @@
       Ich unterstütze Sie in Ihrem individuellen Entwicklungsprozess und beim Erkennen Ihrer Stärken und Ressourcen.<br>
       Ebenso assistiere ich Ihnen beim Entwickeln neuer Wahrnehmungsweisen und Handlungsmöglichkeiten.<br>
       <br>
-      Diese erforschen wir praktisch mit mir als wertschätzendes und spiegelndes Gegenüber.<br><br>
+      Diese erforschen wir praktisch, mit mir als wertschätzendes und spiegelndes Gegenüber.<br><br>
 
       Wenn der geplante Zeitpunkt da ist, überprüfen wir gemeinsam, ob Ihr Ziel erreicht ist oder ob weitere Schritte notwendig sind.<br>
     </p>
-
-
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Praxis</h2>
     <div class="flex flex-wrap gap-2 items-center justify-between">
