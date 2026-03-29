@@ -63,14 +63,19 @@
 
 	<section class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Raus aus der Erschöpfung – zurück zu sich selbst.<br>
-
+			Zurück zu sich selbst und zu mehr Lebensfreude!<br>
+			
 		</h1>
-		Ganzheitliche & körperbezogene Begleitung bei innerer Daueranspannung, Lebensumbrüchen oder Neurodivergenz.
+		Ganzheitliche & körperbezogene Beratung bei innerer Daueranspannung, Lebensumbrüchen oder Neurodivergenz (ADHS-/Autismus-Spektrum).
 		<br><br><br>
 		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
 		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
-		<b>Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit. <br><br><br></b>
+		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
+			Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
+
+		</h1>
+		
+
 	</section>
 
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
