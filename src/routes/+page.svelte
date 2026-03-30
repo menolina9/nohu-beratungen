@@ -71,7 +71,8 @@
 		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
 		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Gemeinsam finden Sie zurück zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
+			Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - 
+			hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
 
 		</h1>
 		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
