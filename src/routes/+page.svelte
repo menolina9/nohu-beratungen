@@ -63,18 +63,20 @@
 
 	<section class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Zurück zu sich selbst und zu mehr Lebensfreude!<br>
+			Raus aus der Überforderung - hin zu mehr Lebensfreude!<br>
 			
 		</h1>
-		Ganzheitliche & körperbezogene Beratung bei innerer Daueranspannung, Lebensumbrüchen oder Neurodivergenz (ADHS-/Autismus-Spektrum).
+		Ganzheitliche und körperorientierte psychologische Beratung in Thun bei innerer Daueranspannung, Lebensumbrüchen oder Neurodivergenz (ADHS-/Autismus-Spektrum).
 		<br><br><br>
 		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
 		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
+			Gemeinsam finden Sie zurück zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
 
 		</h1>
-		
+		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+			Unverbindliches Erstgespräch vereinbaren
+		</a>
 
 	</section>
 
