@@ -66,12 +66,12 @@
 			Raus aus der Überforderung - hin zu mehr Lebensfreude!<br>
 			
 		</h1>
-		Ganzheitliche und körperorientierte psychologische Beratung in Thun bei innerer Daueranspannung, Lebensumbrüchen oder Neurodivergenz (ADHS-/Autismus-Spektrum).
+		Ganzheitliche, körperorientierte psychologische Beratung in Thun bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz (ADHS-/Autismus-Spektrum).
 		<br><br><br>
 		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
 		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Ich begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - 
+			Ich höre Ihnen zu und begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - 
 			hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
 
 		</h1>
