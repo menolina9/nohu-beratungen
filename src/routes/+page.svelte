@@ -67,17 +67,22 @@
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		In meiner Praxis für ganzheitliche, körperorientierte psychologische Beratung in Thun, biete ich Ihnen einen sicheren Raum um innere 
-		Konflikte anzuschauen und aufzulösen, Daueranspannung und Unsicherheiten gehen zu lassen, neuen Mut zu finden bei
-		Lebensumbrüchen und eine gesunde, wertschätzende Beziehung zu sich selbst zu entwickeln z.B. bei Neurodivergenz (ADHS-/Autismus-Spektrum).
+		In meiner Praxis für ganzheitliche, körperorientierte psychologische Beratung in Thun, finden Sie einen sicheren Raum um innere 
+		Konflikte anzuschauen, Ruhe zu finden und sich selbst wieder näherzukommen.<br>
+		Gemeinsam lösen wir innere Anspannung und Unsicherheiten, klären belastende Muster und entwickeln neue Wege - damit Sie sich wieder
+		sicher, lebendig und verbunden mit sich selbst fühlen.<br>
+		Ich begleite Menschen in herausfordernden Lebensphasen sowie bei Themen wie 
+		ADHS und Autismus - Spektrum einfühlsam und individuell.
+		
 		<br><br>
 		<br>
 	
-		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Ich höre Ihnen zu und begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - 
-			hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
+		
+			<b>Ich höre Ihnen zu - und begleite Sie dabei, aus mentaler und körperlicher Überlastung auszubrechen.<br> 
+			Hin zu mehr Selbstvertrauen, innerer Klarheit und Stabilität.</b>
+			<br><br><br>
 
-		</h1>
+		
 		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
 			Unverbindliches Erstgespräch vereinbaren
 		</a>
