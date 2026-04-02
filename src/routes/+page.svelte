@@ -63,13 +63,16 @@
 
 	<section class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Raus aus der Überforderung - hin zu mehr Lebensfreude!<br>
+			Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
+			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		Ganzheitliche, körperorientierte psychologische Beratung in Thun bei innerer Daueranspannung, Lebensumbrüchen und Neurodivergenz (ADHS-/Autismus-Spektrum).
-		<br><br><br>
-		Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
-		Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br><br>
+		In meiner Praxis für ganzheitliche, körperorientierte psychologische Beratung in Thun, biete ich Ihnen einen sicheren Raum um innere 
+		Konflikte anzuschauen und aufzulösen, Daueranspannung und Unsicherheiten gehen zu lassen, neuen Mut zu finden bei
+		Lebensumbrüchen und eine gesunde, wertschätzende Beziehung zu sich selbst zu entwickeln z.B. bei Neurodivergenz (ADHS-/Autismus-Spektrum).
+		<br><br>
+		<br>
+	
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
 			Ich höre Ihnen zu und begleite Sie dabei, aus der mentalen und physischen Überlastung auszubrechen - 
 			hin zu mehr Selbstvertrauen, Lebendigkeit und innerer Sicherheit.<br><br>
