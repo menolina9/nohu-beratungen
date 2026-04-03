@@ -35,8 +35,16 @@
       Ich bin eine offene, neugierige und lebensbejahende Frau und schätze alle kleinen Dinge um mich und in mir.<br>
       Gerne bin ich in der Natur unterwegs; sowohl in der Stille alleine, wie auch in Begleitung von lieben Menschen.<br>
       Meine Liebe zu Büchern besteht seit ich denken kann. <br><br>
-      Als Mutter von zwei Kindern (2006/2008) lebe ich mit meinem Partner zusammen, welcher ebenfalls zwei Kinder im gleichen Alter hat.<br><br>
-      Im Alter von 43 Jahren stiess ich auf das Thema der Hochsensibilität. Darin erkannte ich mich erstmals wieder und konnte mein "anderssein" endlich in einen für mich sinnvollen Zusammenhang setzen. Heute bin ich sehr dankbar, so tief zu fühlen, und habe grosses Vertrauen in meine Intuition.
+      
+      Im Alter von 43 Jahren stiess ich auf das Thema Hochsensibilität.
+Viele Erfahrungen, die ich zuvor nicht einordnen konnte, ergaben plötzlich Sinn.
+
+Dieses tiefere Verständnis für mich selbst prägt heute auch meine Arbeit:
+Ich begegne Menschen mit hoher Sensibilität, ADHS oder im Autismus - Spektrum mit echtem Verständnis – nicht nur fachlich, sondern auch aus eigener Erfahrung.<br><br>
+In meiner Arbeit ist es mir wichtig, einen ruhigen, wertfreien Raum zu schaffen.
+Ich höre genau hin, stelle gezielte Fragen und unterstütze Sie dabei, eigene Muster zu erkennen und neue Wege zu entwickeln – in Ihrem Tempo.<br><br>
+Ich lebe mit meinem Partner und unseren Kindern in einer Patchworkfamilie.<br>
+
 
     </p>
 

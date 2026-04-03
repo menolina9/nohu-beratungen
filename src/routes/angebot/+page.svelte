@@ -20,7 +20,8 @@
     <h1 class="text-3xl sm:text-4xl xl:text-7xl text-center mt-32 mb-16">Mein Angebot</h1>
 
     <section class="w-full text-start ml-10">
-      Wir begegnen im Leben immer wieder Situationen, in denen wir mit unseren gewohnten Strategien nicht weiterkommen, oder in denen wir nicht wissen, wie wir mit ihnen umgehen sollen.<br><br>
+      Manchmal geraten wir in Situationen, in denen wir mit unseren gewohnten Strategien nicht mehr weiterkommen.
+Wir fühlen uns festgefahren, überfordert oder wissen nicht mehr, wie wir mit bestimmten Herausforderungen umgehen sollen.<br><br>
       Einige Beispiele:<br>
       <ul class="ml-4 list-disc text-start">
         <li>Immer gleiche Auseinandersetzungen mit Partner:in, Kolleg:innen oder Angehörigen</li> 
@@ -33,7 +34,12 @@
 
     <section class="w-full text-start ml-10">
       Ich biete <b>Einzelberatung</b> an für <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
-      Ausserdem begleite ich Menschen, die sich oft angepasst, überlastet oder innerlich erschöpft fühlen; insbesondere <b>Erwachsene im ADHS- und Autismus-Spektrum</b>, die sich selbst besser verstehen und ihren Weg finden wollen. <br><br>
+      Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Unterstützung von Erwachsenen mit <b>ADHS</b>
+      und im <b>Autismus - Spektrum.</b>
+
+Viele meiner Klient:innen fühlen sich lange angepasst, überlastet oder innerlich erschöpft.
+Gemeinsam arbeiten wir daran, ein besseres Verständnis für sich selbst zu entwickeln und einen stimmigen eigenen
+ Weg zu finden. <br><br>
       Personen, die gelernt haben, sich selbst zurückzustellen (<b>Hochsensibilität</b>, People Pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
       Auch in folgenden Bereichen bringe ich viel Wissen und Erfahrung mit:<br>
     
@@ -47,8 +53,8 @@
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>
     <p class="w-full text-start ml-10">
-      Psychologische Beratung ist keine Therapie.<br>
-      Auch als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie dabei eigene Lösungen zu entwickeln und Ihren Themen
+      Psychologische Beratung ersetzt keine Therapie.<br>
+      Auch als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie vielmehr dabei eigene Lösungen zu entwickeln und Ihren Themen
       auf den Grund zu gehen.<br>
       Die Grundvoraussetzung hierfür ist, dass die Fähigkeit zu Selbststeuerung nicht eingeschränkt ist.<br>
 
