@@ -67,28 +67,28 @@
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		Ich höre Ihnen zu - und unterstütze Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden.<br> 
-			Damit Sie wieder mehr <b>Ruhe, Klarheit und Sicherheit</b> in Ihrem Alltag spüren.
+		Ich begleite Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden -<br> 
+			hin zu mehr <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
 			<br><br><br>
-		In meiner Praxis in Thun biete ich Ihnen einen geschützten Raum,
+		In meiner Praxis in Thun finden Sie einen geschützten Raum,
 		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. 
 		<br>
-		Gemeinsam schauen wir auf belastende Muster und entwickeln neue Wege - in Ihrem Tempo und angepasst
+		Gemeinsam erkennen wir belastende Muster und entwickeln neue Wege - in Ihrem Tempo und angepasst
 		an Ihre Situation.<br>
 		Ich arbeite achtsam und ressourcenorientiert.<br>
-		So entsteht Schritt für Schritt mehr innere Stabilität, Vertrauen und Orientierung.
+		
 		<br>
 		
 		
-		<br><br>
+		<br>
 		Ich begleite Menschen in herausfordernden Lebensphasen einfühlsam und individuell.<br>
-		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Stärkung von Menschen<br> mit ADHS und im Autismus-Spektrum. <br><br>
-		 <b>Möchten Sie mich unverbindlich kennenlernen?</b><br>
-		 Dann vereinbaren Sie gerne ein Erstgespräch.
+		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> mit ADHS und im Autismus-Spektrum. <br><br>
+		 <b>Wenn Sie spüren, dass sich etwas verändern darf, lernen wir uns gerne unverbindlich kennen.</b><br>
+		 
 		
 		
-		<br><br>
 		<br>
+		
 	
 		
 			
@@ -108,8 +108,8 @@
 			<li>sich durch ständiges Anpassen <b>erschöpft</b> fühlen.</li>
 			<li><b>hochsensibel</b> sind oder sich im <b> ADHS-/Autismus-Spektrum</b> erleben.</li>
 			<li>in einer Umbruchphase stecken (z. B. <b>Trennung oder Perimenopause</b>).</li>
-			<li>den Wunsch nach echter <b>Weiterentwicklung</b> und einem <b>Neuanfang</b> spüren.</li>
-			<li>Ihr <b>Selbstvertrauen stärken</b> und lernen möchten, sicherer für sich einzustehen. </li>
+			<li>sich nach echter <b>Weiterentwicklung</b> und einem <b>Neuanfang</b> sehnen.</li>
+			<li>Ihr <b>Selbstvertrauen stärken</b> und sicherer für sich einstehen möchten. </li>
 		</ul>
 	</div>
 
