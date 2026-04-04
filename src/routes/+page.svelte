@@ -63,7 +63,7 @@
 
 	<section class="w-8/12 text-center text-slate-900 text-xs lg:text-lg xl:text-xl">
 		<h1 class="font-bold text-base lg:text-xl xl:text-2xl">
-			Sind Ihnen Selbstzweifel und innere Orientierungslosigkeit vertraut?<br>
+			Sind Ihnen Selbstzweifel oder innere Orientierungslosigkeit vertraut?<br>
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
@@ -73,29 +73,27 @@
 		In meiner Praxis in Thun finden Sie einen geschützten Raum,
 		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. 
 		<br>
-		Gemeinsam erkennen wir belastende Muster und entwickeln neue Wege - in Ihrem Tempo und angepasst
-		an Ihre Situation.<br>
-		Ich arbeite achtsam und ressourcenorientiert.<br>
+		Gemeinsam erkennen wir wiederkehrende Gedanken, Stressreaktionen oder Verhaltensweisen und entwickeln neue Wege - <br>
+		in Ihrem Tempo und angepasst an Ihre Situation.<br><br>
+		Ich arbeite dabei achtsam und ressourcenorientiert.<br>
 		
 		<br>
 		
 		
 		
 		Ich begleite Menschen in herausfordernden Lebensphasen einfühlsam und individuell.<br>
-		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> mit ADHS und im Autismus-Spektrum. <br><br>
-		 <b>Wenn Sie spüren, dass sich etwas verändern darf, lernen wir uns gerne unverbindlich kennen.</b><br>
+		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> 
+		 im Autismus-Spektrum sowie mit ADHS. <br><br>
+		 Wenn Sie spüren, dass sich etwas verändern darf, freue ich mich darauf, Sie kennenzulernen.
+		 <b>Nehmen Sie gerne unverbindlich Kontakt auf.</b><br>
 		 
 		
 		
-		<br>
-		
-	
-		
-			
+		<br><br>	
 
 		
 		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
-			Erstgespräch vereinbaren
+			Kontakt aufnehmen
 		</a>
 
 	</section>
