@@ -67,20 +67,24 @@
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		<b>Ich höre Ihnen zu - und unterstütze Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden -<br> 
-			Hin zu mehr Selbstvertrauen, innerer Klarheit und Stabilität.</b>
+		Ich höre Ihnen zu - und unterstütze Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden.<br> 
+			Damit Sie wieder mehr <b>Ruhe, Klarheit und Sicherheit</b> in Ihrem Alltag spüren.
 			<br><br><br>
 		In meiner Praxis in Thun biete ich Ihnen einen geschützten Raum,
 		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. 
 		<br>
-		Gemeinsam schauen wir auf belastende Muster und entwickeln neue Wege, um innere Anspannung und Unsicherheiten Schritt
-		für Schritt zu lösen. <br>Dabei arbeite ich achtsam, ressourcenorientiert und in Ihrem Tempo.<br>
-		So entsteht wieder mehr Ruhe, Klarheit und Sicherheit in Ihrem Alltag.<br>
+		Gemeinsam schauen wir auf belastende Muster und entwickeln neue Wege - in Ihrem Tempo und angepasst
+		an Ihre Situation.<br>
+		Ich arbeite achtsam und ressourcenorientiert.<br>
+		So entsteht Schritt für Schritt mehr innere Stabilität, Vertrauen und Orientierung.
+		<br>
 		
 		
 		<br><br>
 		Ich begleite Menschen in herausfordernden Lebensphasen einfühlsam und individuell.<br>
-		 Ein besonderer Schwerpunkt liegt auf der Stärkung von Menschen mit ADHS und im <br>Autismus-Spektrum. 
+		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Stärkung von Menschen<br> mit ADHS und im Autismus-Spektrum. <br><br>
+		 <b>Möchten Sie mich unverbindlich kennenlernen?</b><br>
+		 Dann vereinbaren Sie gerne ein Erstgespräch.
 		
 		
 		<br><br>
@@ -91,7 +95,7 @@
 
 		
 		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
-			Unverbindliches Erstgespräch vereinbaren
+			Erstgespräch vereinbaren
 		</a>
 
 	</section>

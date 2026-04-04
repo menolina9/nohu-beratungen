@@ -33,7 +33,7 @@ Wir fühlen uns festgefahren, überfordert oder wissen nicht mehr, wie wir mit b
     </section>
 
     <section class="w-full text-start ml-10">
-      Ich biete <b>Einzelberatung</b> an für <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
+      In der <b>Einzelberatung</b> unterstütze ich <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
       Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Unterstützung von Erwachsenen mit <b>ADHS</b>
       und im <b>Autismus - Spektrum.</b>
 
@@ -41,7 +41,7 @@ Viele meiner Klient:innen fühlen sich lange angepasst, überlastet oder innerli
 Gemeinsam arbeiten wir daran, ein besseres Verständnis für sich selbst zu entwickeln und einen stimmigen eigenen
  Weg zu finden. <br><br>
       Personen, die gelernt haben, sich selbst zurückzustellen (<b>Hochsensibilität</b>, People Pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
-      Auch in folgenden Bereichen bringe ich viel Wissen und Erfahrung mit:<br>
+      Auch in folgenden Lebenssituationen begleite ich Sie:<br>
     
       <ul class="ml-4 list-disc text-start w-full">
         <li>Perspektivenwechsel (beispielsweise in der Perimenopause)</li>
@@ -53,7 +53,7 @@ Gemeinsam arbeiten wir daran, ein besseres Verständnis für sich selbst zu entw
 
     <h2 class="w-full text-start text-xl sm:text-2xl font-semibold mt-4">Allgemein</h2>
     <p class="w-full text-start ml-10">
-      Psychologische Beratung ersetzt keine Therapie.<br>
+      Psychologische Beratung ist keine Therapie.<br>
       Auch als Beraterin gebe ich Ihnen keine vorgefertigten Lösungen, sondern unterstütze Sie vielmehr dabei eigene Lösungen zu entwickeln und Ihren Themen
       auf den Grund zu gehen.<br>
       Die Grundvoraussetzung hierfür ist, dass die Fähigkeit zu Selbststeuerung nicht eingeschränkt ist.<br>
