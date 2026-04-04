@@ -69,7 +69,7 @@
 		</h1>
 		Ich begleite Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden -<br> 
 			hin zu mehr <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
-			<br><br><br>
+			<br><br>
 		In meiner Praxis in Thun finden Sie einen geschützten Raum,
 		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. 
 		<br>
@@ -80,7 +80,7 @@
 		<br>
 		
 		
-		<br>
+		
 		Ich begleite Menschen in herausfordernden Lebensphasen einfühlsam und individuell.<br>
 		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> mit ADHS und im Autismus-Spektrum. <br><br>
 		 <b>Wenn Sie spüren, dass sich etwas verändern darf, lernen wir uns gerne unverbindlich kennen.</b><br>
