@@ -80,5 +80,10 @@ export const BlogPreviews = [
     published: "18.02.2026",
     image: "körperundpsyche.jpg"
   }, 
-
-]
+{
+    route: "resilienz",
+    description: "...oder was es bedeutet resilient zu sein...",
+    title: "Resilienz",
+    published: "09.04.2026",
+    image: "resilienz_0.jpg"
+  }, ]
