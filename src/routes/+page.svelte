@@ -1,6 +1,6 @@
 <script>
   import Flower from "$lib/components/Flower.svelte";
-	import ProfileImage from "$lib/images/profile-image.jpeg";
+	import ProfileImage from "$lib/images/about-image.jpeg";
   import Typewriter from "$lib/components/Typewriter.svelte";
     import TextGenerateEffect from "$lib/components/TextGenerateEffect.svelte";
 

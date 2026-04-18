@@ -1,5 +1,5 @@
 <script>
-  import AboutImage from "$lib/images/about-image.jpeg"
+  import AboutImage from "$lib/images/profile-image.jpeg"
   import { inview } from "svelte-inview";
   import { TimelineItems } from "./timeline.list";
 </script>
