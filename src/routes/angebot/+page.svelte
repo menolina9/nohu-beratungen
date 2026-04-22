@@ -34,7 +34,7 @@ Wir fühlen uns festgefahren, überfordert oder wissen nicht mehr, wie wir mit b
 
     <section class="w-full text-start ml-10">
       In der <b>Einzelberatung</b> unterstütze ich <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
-      Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Unterstützung von Erwachsenen mit <b>ADHS</b>
+      Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Unterstützung von Erwachsenen und jungen Erwachsenen mit <b>ADHS</b>
       und im <b>Autismus - Spektrum.</b>
 
 Viele meiner Klient:innen fühlen sich lange angepasst, überlastet oder innerlich erschöpft.
