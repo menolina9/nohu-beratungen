@@ -70,33 +70,22 @@
 		Ich begleite Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden -<br> 
 			hin zu mehr <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
 			<br><br>
-		In meiner Praxis in Thun finden Sie einen geschützten Raum,
-		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. 
-		<br>
 		Gemeinsam erkennen wir wiederkehrende Gedanken, Stressreaktionen oder Verhaltensweisen und entwickeln neue Wege - <br>
 		in Ihrem Tempo und angepasst an Ihre Situation.<br><br>
-		Ich arbeite dabei achtsam und ressourcenorientiert.<br>
+		Ich arbeite dabei achtsam und ressourcenorientiert und begleite Sie in herausfordernden Lebensphasen
+		einfühlsam und individuell. 		
 		
-		<br>
-		
-		
-		
-		Ich begleite Menschen in herausfordernden Lebensphasen einfühlsam und individuell.<br>
+		<br><br>
 		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> 
 		 im Autismus-Spektrum sowie mit ADHS. <br><br>
+		 In meiner Praxis in Thun finden Sie einen geschützten Raum,
+		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. <br>
 		 Wenn Sie spüren, dass sich etwas verändern darf, freue ich mich darauf, Sie kennenzulernen.
 		 <b>Nehmen Sie gerne unverbindlich Kontakt auf.</b><br>
-		 
-		
-		
-		<br><br>	
-
-		
-		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+	</section> 
+	<a href="mailto:info@nora-hunziker.ch" class="p-2 w-1/2 text-xl bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
 			Kontakt aufnehmen
 		</a>
-
-	</section>
 
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
 		<p class="font-bold text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
@@ -110,28 +99,32 @@
 			<li>Ihr <b>Selbstvertrauen stärken</b> und sicherer für sich einstehen möchten. </li>
 		</ul>
 	</div>
+	<a href="mailto:info@nora-hunziker.ch" class="p-2 w-1/2 text-xl bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+			Mein Angebot
+		</a><br><br>
 
-	<a href="/angebot" class="text-center text-slate-700 text-opacity-50 hover:bg-slate-800 hover:bg-opacity-5 hover:text-opacity-80 rounded-lg py-2 px-6 transition-all duration-500">Mein Angebot</a>
 	
+	<h1 class="w-8/12 text-center text-xl sm:text-3xl lg:text-5xl sm:mt-16 mt-8">Psychologische Beratung IBP</h1>
 	<div class="flex flex-col gap-4 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Persönliche Entwicklung ist für mich eine Herzensangelegenheit.
-			
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Die Beziehung zu sich selbst und anderen zu fördern, ist meine Leidenschaft.
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Sie bei Ihrer persönlichen Entwicklung zu unterstützen, ist mein Ziel.
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Ich freue mich, Sie mit Humor und Mitgefühl in Ihrem persönlichen Prozess zu begleiten und gemeinsam neue Möglichkeiten zu erkunden.
-		</p>
 
-		<a href="mailto:info@nora-hunziker.ch" class="p-2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
-			Nehmen Sie Kontakt auf - Ich freue mich auf Sie!
-		</a>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			IBP ist ein effektives, wissenschaftlich fundiertes Verfahren für Psychotherapie und Coaching.
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Es integriert Körpererleben, Gedanken, Emotionen und Verhalten in wirksamer Form in den Beratungsprozess.
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Die IBP Beratung baut auf Ihren Stärken/Ressourcen auf.
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Sie erhalten Werkzeuge und Informationen, die Ihnen helfen sowohl berufliche als auch private Veränderungen anzugehen und umzusetzen. 
+			<a href="https://ibp-institut.ch" class="underline text-slate-900 text-center text-sm lg:text-lg xl:text-xl mt-6 hover:underline">https://ibp-institut.ch</a>
+		</p>
+		
 	</div>
+	<a href="mailto:info@nora-hunziker.ch" class="p-2 text-xl w-1/2 bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+			Nehmen Sie Kontakt auf - Ich freue mich auf Sie!
+	</a>
 
 	<TextGenerateEffect 
 		segments={[
@@ -150,31 +143,28 @@
 	/>
 </section>
 
-<section class="flex flex-col justify-center gap-6 items-center my-20 sm:my-32">
-	<h1 class="w-8/12 text-center text-xl sm:text-3xl lg:text-5xl">Psychologische Beratung IBP</h1>
+<section class="flex flex-col justify-center gap-6 items-center my-14 sm:my-24">
+	<div class="flex flex-col gap-4  w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
+	<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Persönliche Entwicklung ist für mich eine Herzensangelegenheit.
+			
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Die Beziehung zu sich selbst und anderen zu fördern, ist meine Leidenschaft.
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Sie bei Ihrer persönlichen Entwicklung zu unterstützen, ist mein Ziel.
+		</p>
+		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
+			Ich freue mich, Sie mit Humor und Mitgefühl in Ihrem persönlichen Prozess zu begleiten und gemeinsam neue Möglichkeiten zu erkunden.
+		</p>
 
-	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-6/12 shadow-inner p-6 rounded-md">
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			IBP ist ein effektives, wissenschaftlich fundiertes Verfahren für Psychotherapie und Coaching.
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Es integriert Körpererleben, Gedanken, Emotionen und Verhalten in wirksamer Form in den Beratungsprozess.
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Die IBP Beratung baut auf Ihren Stärken/Ressourcen auf.
-		</p>
-		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Sie erhalten Werkzeuge und Informationen, die Ihnen helfen sowohl berufliche als auch private Veränderungen anzugehen und umzusetzen. 
-		</p>
-
-		<a href="https://ibp-institut.ch" class="text-slate-900 text-center text-sm lg:text-lg xl:text-xl mt-6 hover:underline">https://ibp-institut.ch</a>
 	</div>
 </section>
 
 <section class="flex flex-col justify-center gap-6 items-center my-20 sm:my-32">
-	<h1 class="w-8/12 text-center text-xl sm:text-3xl lg:text-5xl">Kosten</h1>
-
-	<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-5/12 shadow-inner p-6 rounded-md">
+<h1 class="w-8/12 text-center text-xl sm:text-3xl lg:text-5xl">Kosten</h1>	
+<div class="flex flex-col gap-8 mt-8 sm:mt-20 w-10/12 sm:8/12 xl:w-5/12 shadow-inner p-6 rounded-md">
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 		
 		Eine Sitzung dauert 60 Minuten und kostet <br>CHF 120.– <br>

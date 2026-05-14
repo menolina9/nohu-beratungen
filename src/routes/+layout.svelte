@@ -8,7 +8,7 @@
 	{ name: 'Start', href: "/" },
 	{ name: 'Angebot', href: "/angebot" },
 	{ name: 'Blog', href: "/blog" },
-	{ name: 'Über mich', href: "/about" }
+	{ name: 'Über mich', href: "/about" },
 ]} />
 
 <main class="min-h-screen">
