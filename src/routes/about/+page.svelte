@@ -43,7 +43,7 @@ Dieses tiefere Verständnis für mich selbst prägt heute auch meine Arbeit:
 Ich begegne Menschen mit hoher Sensibilität, ADHS oder im Autismus - Spektrum mit echtem Verständnis – nicht nur fachlich, sondern auch aus eigener Erfahrung.<br><br>
 In meiner Arbeit ist es mir wichtig, einen ruhigen, wertfreien Raum zu schaffen.
 Ich höre genau hin, stelle gezielte Fragen und unterstütze Sie dabei, eigene Muster zu erkennen und neue Wege zu entwickeln – in Ihrem Tempo.<br><br>
-Ich lebe mit meinem Partner und unseren Kindern in einer Patchworkfamilie.<br>
+Ich bin Mutter von zwei wundervollen Kindern (2006/2008) und lebe mit meinem Partner zusammen, welcher Vater von zwei Kindern im gleichen Alter ist.<br>
 
 
     </p>
