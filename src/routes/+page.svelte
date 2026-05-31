@@ -24,7 +24,7 @@
 		<div class="flex flex-col items-start select-none">
 			<Flower class="w-16 sm:w-24 transition-all duration-700"></Flower>
 			<h1 class="text-3xl sm:text-4xl xl:text-7xl ml-8 transition-all duration-300">Nora Hunziker</h1>
-			<h2 class="text-lg sm:text-xl xl:text-3xl ml-8 transition-all duration-300">Psychologische Beratung IBP</h2><br>
+			<h2 class="text-lg sm:text-xl xl:text-3xl ml-8 transition-all duration-300">Psychologische Beratung IBP</h2><br><br>
 			<h2 class="text-lg sm:text-xl xl:text-3xl ml-8 transition-all duration-300">Ankommen. Spüren. Gestalten.</h2>
 		</div>
 	</div>
