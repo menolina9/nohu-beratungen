@@ -68,20 +68,16 @@
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		Ich begleite Sie dabei, aus mentaler und körperlicher Überlastung herauszufinden -<br> 
-			hin zu mehr <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
+		Ich begleite Sie individuell und ressourcenorientiert aus mentaler und körperlicher Überlastung herauszufinden - 
+			hin zu mehr<br> <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
 			<br><br>
 		Gemeinsam erkennen wir wiederkehrende Gedanken, Stressreaktionen oder Verhaltensweisen und entwickeln neue Wege - <br>
 		in Ihrem Tempo und angepasst an Ihre Situation.<br><br>
-		Ich arbeite dabei achtsam und ressourcenorientiert und begleite Sie in herausfordernden Lebensphasen
-		einfühlsam und individuell. 		
-		
-		<br><br>
 		 Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Begleitung von Menschen<br> 
-		 im Autismus-Spektrum sowie mit ADHS. <br><br>
+		 im <b>Autismus-Spektrum sowie mit ADHS</b>. <br><br>
 		 In meiner Praxis in Thun finden Sie einen geschützten Raum,
 		um zur Ruhe zu kommen und sich selbst wieder näher zu sein. <br>
-		 Wenn Sie spüren, dass sich etwas verändern darf, freue ich mich darauf, Sie kennenzulernen.
+		 Wenn Sie spüren, dass sich etwas verändern darf, freue ich mich darauf, Sie kennenzulernen.<br>
 		 <b>Nehmen Sie gerne unverbindlich Kontakt auf.</b><br>
 	</section> 
 	<a href="mailto:info@nora-hunziker.ch" class="p-2 w-1/2 text-xl bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
@@ -112,7 +108,7 @@
 			IBP ist ein effektives, wissenschaftlich fundiertes Verfahren für Psychotherapie und Coaching.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
-			Es integriert Körpererleben, Gedanken, Emotionen und Verhalten in wirksamer Form in den Beratungsprozess.
+			Es verbindet Körperwahrnehmung, Gefühle, Gedanken und Verhalten in wirksamer Form in den Beratungsprozess.
 		</p>
 		<p class="text-slate-900 text-xs sm:text-sm lg:text-lg xl:text-xl">
 			Die IBP Beratung baut auf Ihren Stärken/Ressourcen auf.
