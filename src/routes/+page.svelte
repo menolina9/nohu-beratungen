@@ -68,7 +68,7 @@
 			Fühlen Sie sich erschöpft vom ständigen Funktionieren?<br><br>
 			
 		</h1>
-		Ich begleite Sie individuell und achtsam aus mentaler und körperlicher Überlastung herauszufinden - 
+		Ich begleite Sie individuell und achtsam dabei, aus mentaler und körperlicher Überlastung herauszufinden - 
 			hin zu mehr<br> <b>Ruhe, Klarheit und einem sicheren Gefühl in Ihrem Alltag</b>.
 			<br><br>
 		Gemeinsam erkennen wir wiederkehrende Gedanken, Stressreaktionen oder Verhaltensweisen und entwickeln neue Wege - <br>
