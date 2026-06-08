@@ -86,4 +86,11 @@ export const BlogPreviews = [
     title: "Resilienz",
     published: "09.04.2026",
     image: "resilienz_0.jpg"
+  }, 
+  {
+    route: "hochsensibilität",
+    description: "Was bedeutet Hochsensibilität? Beschreibung aus meiner Fallarbeit: «Mein Raum» - Eigenraum und Grenze in der Arbeit mit hochsensiblen Menschen",
+    title: "Hochsensibilität",
+    published: "08.06.2026",
+    image: "hochsensibilität.jpg"
   }, ]
