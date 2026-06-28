@@ -13,7 +13,7 @@ In diesem Buch ist sehr konkret, in Abschnitte unterteilt und verständlich gesc
 
 Es sind einige Punkte aufgeführt, welche gegen eine formale Diagnostik und einige welche dafür sprechen, u.a. um Fehldiagnosen loszuwerden.
 
-Themen wie Identität, Selbstbild und Anderssein werden immer wieder aufgegriffen und auch, wie das eigene Verhalten selbst bewertet wird. Es geht darum, dass Löffel eingeteilt werden müssen und dass das «Verstecken» des Anderssein (Masking) zusätzliche Löffel nebenher verbraucht, so dass danach weniger übrig bleiben für die Bewältigung des Alltags.
+Themen wie Identität, Selbstbild und Anderssein werden immer wieder aufgegriffen und auch, wie das eigene Verhalten selbst bewertet wird. Es geht darum, dass Löffel (Energieeinheiten) eingeteilt werden müssen und dass das «Verstecken» des Anderssein (Masking) zusätzliche Löffel nebenher verbraucht, so dass danach weniger übrig bleiben für die Bewältigung des Alltags.
 
 Auch dem Umgang damit wird ein grosser Teil gewidmet und unter anderem die Ergotherapie als hilfreiche Unterstützung genannt, was mich natürlich besonders freut. Im Selbsthilfeteil findet auch das Zentrale von IBP «Hör auf Deinen Körper» mit Achtsamkeitsübungen, Bodyscan, etc. einen wichtigen Platz. Und der Teil der Selbstfürsorge mit «Wenn du nicht gut für dich sorgst, wer dann?» wird ebenfalls explizit hervorgehoben.
 
