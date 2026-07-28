@@ -35,7 +35,7 @@
 				Seestrasse 31, 3600 Thun<br>
 			</p>
 			<div class="flex flex-row justify-start gap-3">
-				<a href="mailto:menolina@proton.me" class="flex justify-center items-center hover:bg-slate-600 hover:bg-opacity-20 p-1 rounded-lg transition-colors duration-500">
+				<a href="mailto:info@nora-hunziker.ch" class="flex justify-center items-center hover:bg-slate-600 hover:bg-opacity-20 p-1 rounded-lg transition-colors duration-500">
 					<svg xmlns="http://www.w3.org/2000/svg" width="2rem" height="2rem" viewBox="0 0 24 24">
 						<path fill="currentColor" d="M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zm8-7l8-5V6l-8 5l-8-5v2z" />
 					</svg>
