@@ -82,11 +82,11 @@ Gemeinsam arbeiten wir daran, ein besseres Verständnis für sich selbst zu entw
       <a href="/images/blog/wartebereich.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
         <img class="w-full hover:scale-110 transition-all" alt="Praxis Wartebereich" src="/images/blog/wartebereich.jpg" />
       </a>
-      <a href="/images/blog/raum1.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
-        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/raum1.jpg" />
+      <a href="/images/blog/praxisraum neu 2.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/praxisraum neu 2.jpg" />
       </a>
-      <a href="/images/blog/raum2.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
-        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/raum2.jpg" />
+      <a href="/images/blog/praxisraum neu 3.jpg" class="overflow-hidden w-full sm:w-1/5 rounded-lg cursor-pointer">
+        <img class="w-full hover:scale-110 transition-all" alt="Praxis Raum" src="/images/blog/praxisraum neu 3.jpg" />
       </a>
     </div>
   

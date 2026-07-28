@@ -5,8 +5,8 @@ published: "28.07.2026"
 image: "praxisraum neu 1.jpg"
 ---
 
-Neu biete ich seit dieser Woche meine Beratungen im eigenen Praxisraum in derselben Gruppenpraxis an. Ich freue mich sehr darauf, Sie hier begrüssen zu dürfen und Ihnen zu begegnen!<br> <br>
-Die Zeit, die ich seit November 2024 als Untermieterin hier verbringen durfte war sehr wertvoll und weiterbringend. Ein wundervoller Start in meine Tätigkeit als psychologische Beraterin IBP. <br> Nun ist der Zeitpunkt da für mich, etwas Neues zu wagen und ich freue mich sehr darauf😊.
+Neu biete ich seit dieser Woche meine Beratungen im eigenen Praxisraum in derselben Gruppenpraxis an. Ich freue mich sehr darauf, Sie hier zu begrüssen und Ihnen zu begegnen!<br> <br>
+Die Zeit, die ich seit November 2024 als Untermieterin in der Gruppenpraxis 31 verbringen durfte, war sehr wertvoll und weiterbringend. Ein wundervoller Start in meine Tätigkeit als psychologische Beraterin IBP. <br> Nun ist der Zeitpunkt da für mich, etwas Neues zu wagen - ich freue mich sehr darauf😊!
 
 „Wenn du mutig genug bist, Lebewohl zu sagen, wird das Leben dich mit einem neuen Hallo belohnen.“ – Paulo Coelho
 
