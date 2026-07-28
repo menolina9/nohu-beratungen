@@ -93,4 +93,12 @@ export const BlogPreviews = [
     title: "Hochsensibilität",
     published: "08.06.2026",
     image: "hochsensibilität.jpg"
-  }, ]
+  }, 
+  {
+    route: "eigener praxisraum",
+    description: "In jedem Anfang wohnt ein Zauber inne....",
+    title: "Eigener Praxisraum",
+    published: "28.07.2026",
+    image: "praxisraum neu 1.jpg"
+  }
+]
