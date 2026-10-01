@@ -100,5 +100,12 @@ export const BlogPreviews = [
     title: "Eigener Praxisraum",
     published: "28.07.2026",
     image: "praxisraum neu 1.jpg"
-  }
+  },
+  {
+    route: "adhs",
+    description: "Buchvorstellung: ADHS in Love – Wie ADHS Paare herausfordert und was ihnen hilft von Hannah Gensch",
+    title: "ADHS und die Liebe: eine besondere Herausforderung",
+    published: "01.10.2026",
+    image: "adhs.jpg"
+  },
 ]
