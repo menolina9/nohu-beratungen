@@ -28,6 +28,7 @@ Wir fühlen uns festgefahren, überfordert oder wissen nicht mehr, wie wir mit b
         <li>Konfliktreiche und herausfordernde Situationen (am Arbeitsplatz, in der Familie, der Partnerschaft oder im Freundeskreis)</li> 
         <li>Sehnsucht etwas Neues anzugehen und sich selbst im Weg stehen</li> 
         <li>Selbstzweifel und innere Überforderung</li> 
+        <li>Mühe mit dem Spüren eigener Bedürfnisse</li>
         <li>Schwierigkeiten mit dem Setzen von Grenzen</li>
       </ul>
     </section>
