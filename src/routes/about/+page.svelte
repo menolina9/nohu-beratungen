@@ -44,7 +44,7 @@ Ich begegne Menschen mit hoher Sensibilität, ADHS oder im Autismus - Spektrum m
 In meiner Arbeit ist es mir wichtig, einen ruhigen, wertfreien Raum zu schaffen.
 Ich höre genau hin, stelle gezielte Fragen und unterstütze Sie dabei, eigene Muster zu erkennen und neue Wege zu entwickeln – in Ihrem Tempo.<br><br>
 Ich bin Mutter von zwei wundervollen Kindern (2006/2008) und lebe mit meinem Partner zusammen, welcher Vater von zwei Kindern im gleichen Alter ist.<br><br>
-Regelmässige Supervision meiner Arbeit sowie Weiterbildungen sind für mich selbstverständlich.
+Regelmässige Supervision meiner Arbeit sowie das Besuchen von Weiterbildungen ist für mich selbstverständlich.
 
 
     </p>
