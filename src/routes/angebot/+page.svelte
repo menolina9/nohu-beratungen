@@ -36,11 +36,14 @@ Wir fühlen uns festgefahren, überfordert oder wissen nicht mehr, wie wir mit b
     <section class="w-full text-start ml-10">
       In der <b>Einzelberatung</b> unterstütze ich <b>Erwachsene</b> und <b>junge Erwachsene</b>, die immer wieder bei ähnlichen Problemen anstehen, in einer schwierigen Situation stecken oder sich weiterentwickeln und besser kennenlernen möchten.<br><br>
       Ein besonderer Schwerpunkt meiner Arbeit liegt auf der Unterstützung von Erwachsenen und jungen Erwachsenen mit <b>ADHS</b>
-      und im <b>Autismus - Spektrum.</b>
-
+      und im <b>Autismus - Spektrum.</b><br><br>
+       
 Viele meiner Klient:innen fühlen sich lange angepasst, überlastet oder innerlich erschöpft.
 Gemeinsam arbeiten wir daran, ein besseres Verständnis für sich selbst zu entwickeln und einen stimmigen eigenen
  Weg zu finden. <br><br>
+ <b>In diesem Zusammenhang biete ich auch Beratungen an für Angehörige, Partner und Partnerinnen von neurodivergenten 
+  Erwachsenen, mit dem Ziel, das gegenseitige Verständnis zu fördern und einen wertschätzenden Umgang miteinander zu finden.</b> <br><br>
+
       Personen, die gelernt haben, sich selbst zurückzustellen (<b>Hochsensibilität</b>, People Pleasing) und interessiert am Erforschen gesunder Grenzen sind, sind bei mir willkommen.<br><br>
       Auch in folgenden Lebenssituationen begleite ich Sie:<br>
     
