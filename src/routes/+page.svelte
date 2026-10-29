@@ -96,7 +96,7 @@
 			<li>Ihr <b>Selbstvertrauen stärken</b> und sicherer für sich einstehen möchten. </li>
 		</ul>
 	</div>
-	<a href="mailto:info@nora-hunziker.ch" class="p-2 w-1/2 text-xl bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
+	<a href="/angebot" class="p-2 w-1/2 text-xl bg-blue-400/40 hover:bg-blue-400/30 transition-all rounded-lg text-center">
 			Mein Angebot
 		</a><br><br>
 
