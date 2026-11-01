@@ -169,7 +169,7 @@
 	Gerne können Sie auch ein Paket von drei Sitzungen zum Preis von CHF 340.- buchen.<br><br>
 	Für junge Erwachsene bis 24 Jahre kostet eine Sitzung von 60 Minuten CHF 100.-<br><br>
 		Die Beratung richtet sich an Menschen mit persönlichen oder beruflichen Anliegen, die nicht den Bereich psychischer Erkrankungen betreffen. <br>
-		Daher werden die Kosten nicht von der Krankenkasse übernommen. <br>
+		Daher werden die Kosten nicht von der Krankenkasse übernommen. <br><br>
 		Dies bietet auch Vorteile: als Selbstzahlende können Sie eine Begleitung wählen, die unabhängig von krankenkassenanerkannten Therapien ist; oft ist dadurch
 	eine zeitnahe, individuelle Begleitung möglich.
 
